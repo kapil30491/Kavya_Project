@@ -1,0 +1,3001 @@
+candidate_id,name,party,age,education
+1,Neelima Bala,Regional Party,65,PhD
+2,Siddharth Prabhakar,AAP,49,PhD
+3,Sai Dora,BJP,53,Postgraduate
+4,Bhavika Kale,AAP,30,Graduate
+5,Upadhriti Guha,BJP,33,Graduate
+6,Suhani Dash,AAP,54,PhD
+7,Hemani Ram,Independent,59,Graduate
+8,Saumya Kashyap,AAP,33,PhD
+9,Frado Grover,Independent,45,Graduate
+10,Madhavi Biswas,AAP,37,Graduate
+11,Krish Srivastava,INC,56,12th Pass
+12,Anamika Sagar,BJP,70,Postgraduate
+13,Bhavna Agarwal,AAP,58,12th Pass
+14,Anvi Pandya,AAP,33,PhD
+15,Samesh Jhaveri,AAP,35,PhD
+16,Zilmil Barad,Regional Party,70,12th Pass
+17,Dhriti Mani,AAP,39,Postgraduate
+18,Ishaan Murty,INC,35,Postgraduate
+19,Kiaan Ravi,AAP,49,12th Pass
+20,Dominic Lalla,INC,68,12th Pass
+21,Bahadurjit Dalal,AAP,45,PhD
+22,Samarth Saraf,Regional Party,48,Graduate
+23,Mohammed Sundaram,AAP,58,Postgraduate
+24,Tanveer Prasad,AAP,34,Postgraduate
+25,Gauri Oak,Regional Party,61,Graduate
+26,Ria Sandhu,BJP,59,Graduate
+27,Nicholas Ganguly,BJP,31,12th Pass
+28,Indali Karnik,BJP,63,Postgraduate
+29,Devika Karpe,INC,28,Graduate
+30,Dayita Mane,BJP,25,PhD
+31,Megha Krishnamurthy,Independent,65,Graduate
+32,Qabil Ravi,BJP,42,12th Pass
+33,Aditya Amble,BJP,66,12th Pass
+34,Ishani Kota,BJP,50,12th Pass
+35,Vihaan Narang,Regional Party,46,Graduate
+36,Faras Parsa,Regional Party,73,12th Pass
+37,Vasudha Hans,Regional Party,52,Postgraduate
+38,Girik Choudhry,INC,70,PhD
+39,Pooja Chadha,Independent,66,Postgraduate
+40,Kevin Loke,BJP,50,Graduate
+41,Waida Sani,Regional Party,67,PhD
+42,Mahika Nagar,Independent,36,Graduate
+43,Aadi Kade,INC,64,12th Pass
+44,Advik Hari,Independent,32,PhD
+45,Abhimanyu Kunda,BJP,33,12th Pass
+46,Anmol Sandal,AAP,45,PhD
+47,Tarak Chokshi,BJP,40,PhD
+48,Benjamin Chokshi,INC,30,12th Pass
+49,Vyanjana Goyal,BJP,41,PhD
+50,Madhavi Sarna,Independent,39,PhD
+51,Megha Tata,INC,38,12th Pass
+52,Ekbal Kale,Regional Party,64,PhD
+53,Matthew Chopra,AAP,59,12th Pass
+54,Bahadurjit Arora,Regional Party,33,12th Pass
+55,Indira Sehgal,Independent,57,PhD
+56,Nitara Guha,Regional Party,52,Postgraduate
+57,Pushti Chaudhuri,Regional Party,45,Graduate
+58,Yashasvi Rege,Regional Party,26,12th Pass
+59,Kavya Tella,Regional Party,45,12th Pass
+60,Mekhala Sundaram,INC,57,12th Pass
+61,Saumya Peri,Independent,70,12th Pass
+62,Victor Dada,BJP,56,Postgraduate
+63,Yash Narain,Regional Party,37,Postgraduate
+64,Vansha Issac,INC,38,Graduate
+65,Laksh Wagle,INC,60,12th Pass
+66,Sachi Parmer,AAP,43,PhD
+67,Oscar Nath,Regional Party,25,Postgraduate
+68,Gaurav Wable,Independent,40,Postgraduate
+69,Harini Shanker,Regional Party,40,Graduate
+70,Prisha Sahota,INC,57,PhD
+71,Gagan Khurana,INC,70,12th Pass
+72,Lohit Issac,Independent,59,Postgraduate
+73,Upkaar Kaur,Independent,49,Graduate
+74,Vamakshi Virk,AAP,46,PhD
+75,Chakradev Chowdhury,AAP,47,12th Pass
+76,Aachal Sha,Independent,52,Graduate
+77,Chasmum Shroff,BJP,30,PhD
+78,Aarini Mutti,AAP,42,PhD
+79,Nimrat Sha,AAP,56,Graduate
+80,Avni Seshadri,AAP,58,12th Pass
+81,Gabriel Goda,Independent,33,Graduate
+82,Jagat Mander,AAP,57,Graduate
+83,Harini Bhatnagar,Regional Party,68,Graduate
+84,Reva Ratti,Independent,46,Graduate
+85,Warinder Sachar,AAP,54,12th Pass
+86,Logan Balan,Regional Party,57,Graduate
+87,Jai Murty,AAP,28,12th Pass
+88,Maanas Johal,Independent,27,PhD
+89,Ayushman Merchant,BJP,64,Graduate
+90,Qabil Cherian,Regional Party,54,Postgraduate
+91,Rajata Doshi,Independent,62,Postgraduate
+92,Baghyawati Pathak,BJP,61,12th Pass
+93,Reyansh Krishnan,AAP,30,Graduate
+94,Jeevika Loyal,BJP,68,12th Pass
+95,Nimrat Ramesh,AAP,33,12th Pass
+96,Ayushman Nadig,Regional Party,27,Graduate
+97,Kashish Balasubramanian,BJP,53,Graduate
+98,Zarna Nagar,BJP,45,PhD
+99,Victor Acharya,Independent,30,Postgraduate
+100,Unnati Keer,Regional Party,69,Postgraduate
+101,Rehaan Toor,INC,45,Postgraduate
+102,Krish Bhakta,Regional Party,71,Graduate
+103,Ijaya Loke,INC,64,Graduate
+104,Theodore Bora,Regional Party,40,PhD
+105,Mohammed Gara,BJP,47,Postgraduate
+106,Jeevika Menon,Independent,35,Postgraduate
+107,Harshil Kunda,INC,57,Postgraduate
+108,Krishna Dutt,Regional Party,32,Postgraduate
+109,Kevin Varty,BJP,47,PhD
+110,Harsh Rana,INC,52,12th Pass
+111,Pranav Kapur,AAP,59,Postgraduate
+112,Quincy Raman,INC,66,Postgraduate
+113,Dayita Kothari,Independent,25,Graduate
+114,Harinakshi Keer,AAP,63,PhD
+115,Tamanna Mani,Independent,67,Postgraduate
+116,Aditya Sarkar,BJP,53,Graduate
+117,Mahika Sani,INC,50,Graduate
+118,Radhika Bansal,INC,55,Graduate
+119,Veer Taneja,Regional Party,35,12th Pass
+120,Chanchal Palan,BJP,59,Postgraduate
+121,Liam Ray,AAP,38,Graduate
+122,Ishanvi Karan,INC,64,PhD
+123,Aadhya Pillai,INC,45,Postgraduate
+124,Chavvi Shere,Regional Party,29,12th Pass
+125,Mohini Kalla,AAP,58,12th Pass
+126,Ansh Pau,INC,72,PhD
+127,Eesha Barad,AAP,30,PhD
+128,Balhaar Pillay,BJP,67,Postgraduate
+129,Kamya Murty,AAP,60,PhD
+130,Tanmayi Munshi,Independent,26,12th Pass
+131,Yasti Panchal,Regional Party,57,12th Pass
+132,Indrajit Vora,INC,27,12th Pass
+133,Suhani Bhardwaj,AAP,33,Graduate
+134,Qasim Shankar,BJP,40,12th Pass
+135,Upasna Mahajan,Independent,32,PhD
+136,Rachit Bala,AAP,35,PhD
+137,Siya Dixit,Regional Party,28,Postgraduate
+138,Jason Choudhary,BJP,70,Postgraduate
+139,Alexander Bhatti,Regional Party,33,Graduate
+140,Frado Thaker,Independent,36,12th Pass
+141,Ishwar Halder,Independent,40,Postgraduate
+142,Shivani Nagi,Regional Party,26,12th Pass
+143,Ekta Rama,Independent,73,Graduate
+144,Dalbir Savant,Regional Party,28,PhD
+145,Anay Ratta,Independent,40,12th Pass
+146,Abeer Grover,BJP,56,Graduate
+147,Osha Sehgal,AAP,38,PhD
+148,Chandani Kakar,BJP,68,Graduate
+149,Zaitra Bose,Regional Party,43,Postgraduate
+150,Eshana Wagle,AAP,40,Postgraduate
+151,Gagan Kibe,BJP,51,12th Pass
+152,Devika Kara,Regional Party,62,Graduate
+153,Hardik Nair,AAP,32,12th Pass
+154,Samarth Bhatnagar,Regional Party,29,PhD
+155,William Sani,Regional Party,25,PhD
+156,Triveni Mahajan,Regional Party,47,PhD
+157,Sathvik Swamy,Independent,32,PhD
+158,Manan Kanda,INC,29,PhD
+159,Turvi Dutt,Independent,60,Graduate
+160,Nicholas Mandal,AAP,45,PhD
+161,Varsha Mody,AAP,70,Graduate
+162,Ijaya Bhagat,INC,45,12th Pass
+163,Anika Bath,Regional Party,57,12th Pass
+164,Vrinda Barad,INC,32,12th Pass
+165,Robert Gala,Independent,57,PhD
+166,Nitesh Radhakrishnan,Regional Party,69,12th Pass
+167,Gayathri Dar,BJP,56,Graduate
+168,Ayushman Memon,AAP,72,12th Pass
+169,Laban Dugar,Regional Party,27,Graduate
+170,Diya Bera,BJP,44,12th Pass
+171,Yatan Garg,INC,36,12th Pass
+172,Madhavi Grover,Independent,41,12th Pass
+173,Matthew Majumdar,Regional Party,71,Postgraduate
+174,Henry Rau,AAP,61,Postgraduate
+175,Anmol Ratta,Independent,43,PhD
+176,Hemang Prakash,BJP,53,Graduate
+177,Garima Kumar,Independent,37,Graduate
+178,Charita Luthra,Independent,70,12th Pass
+179,Ronith Kota,AAP,56,PhD
+180,Ekansh Prashad,Independent,31,12th Pass
+181,Liam Tak,BJP,33,Postgraduate
+182,Gaurangi Kashyap,INC,26,Postgraduate
+183,Henry Vala,AAP,36,12th Pass
+184,Hemani Mane,Regional Party,40,Graduate
+185,Garima Brar,AAP,63,12th Pass
+186,Vedika Palla,Regional Party,46,Graduate
+187,Guneet Sahota,AAP,60,PhD
+188,Rudra Shroff,INC,74,12th Pass
+189,Ranveer Sen,INC,71,PhD
+190,Anjali Oommen,BJP,58,12th Pass
+191,Suhani Muni,AAP,32,12th Pass
+192,Udyati Garg,INC,58,12th Pass
+193,Urvashi Bath,Independent,57,PhD
+194,Faras D’Alia,AAP,66,PhD
+195,Tanay Mistry,Regional Party,26,Postgraduate
+196,Fariq Chacko,BJP,58,PhD
+197,Indali Dhillon,AAP,35,Postgraduate
+198,Widisha Golla,Independent,63,Postgraduate
+199,Zehaan Suresh,Independent,72,12th Pass
+200,Gunbir Jayaraman,Regional Party,28,Postgraduate
+201,Aditya Parekh,Independent,27,12th Pass
+202,Osha Mittal,Regional Party,48,12th Pass
+203,Hemal Dua,Independent,32,Postgraduate
+204,Samesh Bajaj,INC,33,Graduate
+205,Owen Ahuja,AAP,43,Postgraduate
+206,Yauvani Saran,INC,55,PhD
+207,Aishani Doctor,BJP,66,Graduate
+208,Umang Korpal,Independent,47,12th Pass
+209,Victor Chawla,Independent,33,12th Pass
+210,Arya Luthra,Regional Party,59,Postgraduate
+211,Ubika Dasgupta,Regional Party,26,12th Pass
+212,Simon Halder,INC,58,PhD
+213,Harshil Chada,AAP,54,Graduate
+214,Rudra Ramaswamy,Regional Party,72,12th Pass
+215,Saksham Datta,Regional Party,71,PhD
+216,Damyanti Bawa,INC,38,Postgraduate
+217,Harish Naik,INC,54,Graduate
+218,Ayushman Bakshi,Regional Party,73,Graduate
+219,Krishna Narayan,Regional Party,53,12th Pass
+220,Pranit Tandon,Independent,25,12th Pass
+221,Yashawini Menon,INC,70,12th Pass
+222,Chameli Magar,INC,49,12th Pass
+223,Madhav Bhatt,BJP,30,12th Pass
+224,Vihaan Dutta,AAP,68,12th Pass
+225,Ganga Yogi,Independent,28,PhD
+226,Panini Bhakta,AAP,63,PhD
+227,Udyati Nayar,AAP,65,Graduate
+228,Veda Dave,Independent,47,PhD
+229,Wridesh Sachdeva,Independent,29,12th Pass
+230,Pranav Ray,Independent,55,Graduate
+231,Eiravati Dugar,Regional Party,59,12th Pass
+232,Qabil Manne,Independent,47,PhD
+233,Yauvani Sethi,BJP,40,Postgraduate
+234,Naksh Nagar,BJP,73,Graduate
+235,Balveer Manne,INC,64,PhD
+236,Varsha Bhatnagar,AAP,39,PhD
+237,Ekta Bhandari,Independent,71,Postgraduate
+238,Krishna Sengupta,Independent,66,Graduate
+239,Victor Kapur,BJP,66,Graduate
+240,Lohit Dara,INC,60,Graduate
+241,Samesh Subramaniam,Independent,70,Postgraduate
+242,Gautami Goel,AAP,66,12th Pass
+243,Rachit Karnik,Independent,65,Graduate
+244,Warjas Venkatesh,BJP,72,Postgraduate
+245,Anusha Shere,BJP,61,Graduate
+246,Charita Iyer,BJP,74,PhD
+247,Aadi Patla,Independent,52,Postgraduate
+248,Faraj Baral,BJP,59,Postgraduate
+249,Elijah Narain,Independent,67,PhD
+250,Nandini Kaur,Regional Party,45,PhD
+251,Vihaan Oza,AAP,26,12th Pass
+252,Abdul Uppal,AAP,41,Postgraduate
+253,Noah Varughese,BJP,66,12th Pass
+254,Fitan Jayaraman,INC,65,PhD
+255,Keya Tiwari,Independent,71,12th Pass
+256,Bina Dara,AAP,60,PhD
+257,Vincent Dyal,AAP,72,Graduate
+258,Netra Bajaj,Regional Party,40,Postgraduate
+259,Ekapad Bhagat,Independent,29,Graduate
+260,Isaac Singhal,BJP,36,Postgraduate
+261,Varsha Dhawan,Independent,27,Graduate
+262,Wahab Bhalla,AAP,73,Graduate
+263,Yatin Mistry,BJP,74,Postgraduate
+264,Manbir Dube,BJP,29,Postgraduate
+265,Ryan Amble,AAP,35,Postgraduate
+266,Devika Master,Regional Party,45,PhD
+267,Ojasvi Krishna,Regional Party,33,Postgraduate
+268,Fiyaz Butala,INC,32,PhD
+269,Tristan Bhatt,AAP,66,PhD
+270,Qadim Andra,AAP,32,Graduate
+271,Yamini Desai,Independent,27,PhD
+272,Damyanti Bhat,Independent,72,PhD
+273,Girik Borra,Regional Party,51,12th Pass
+274,Xiti Palla,Regional Party,30,PhD
+275,Vedhika Menon,Regional Party,26,Postgraduate
+276,Oscar Roy,BJP,72,Graduate
+277,Ekanta Nanda,AAP,68,Graduate
+278,Aarini Bumb,INC,27,PhD
+279,Nidra Sama,Independent,52,12th Pass
+280,Balendra Tara,INC,55,PhD
+281,Maya Chakrabarti,INC,33,Postgraduate
+282,Triya Lad,Regional Party,68,12th Pass
+283,Libni Saraf,AAP,35,12th Pass
+284,Bakhshi Mane,AAP,58,12th Pass
+285,Dalbir Manne,Regional Party,67,12th Pass
+286,Thomas Chaudry,BJP,55,Postgraduate
+287,Faris Korpal,AAP,36,PhD
+288,Aarav Vora,INC,33,12th Pass
+289,Chameli Varghese,AAP,59,Postgraduate
+290,Manan Tailor,INC,47,Graduate
+291,Ishwar Mani,Regional Party,74,12th Pass
+292,Ekantika Munshi,BJP,72,12th Pass
+293,Dalbir Vora,Independent,26,PhD
+294,Warhi Sehgal,INC,54,PhD
+295,Chandran Randhawa,INC,33,12th Pass
+296,Omaja Bhandari,Independent,31,Postgraduate
+297,Teerth Kapoor,BJP,25,PhD
+298,Netra Keer,AAP,39,PhD
+299,Zarna Doctor,AAP,47,12th Pass
+300,Hredhaan Char,BJP,68,Graduate
+301,Baljiwan Pingle,AAP,26,Postgraduate
+302,Siddharth Singhal,AAP,49,Postgraduate
+303,Dalbir Manne,BJP,51,12th Pass
+304,Hiral Mangat,Regional Party,26,PhD
+305,Lila Nagy,Regional Party,29,PhD
+306,Pranit Sawhney,AAP,48,PhD
+307,Zansi Mammen,AAP,32,Postgraduate
+308,Chavvi Biswas,AAP,66,Postgraduate
+309,Rajata Upadhyay,Regional Party,55,PhD
+310,Onveer Nazareth,Independent,32,Graduate
+311,Jagat Goyal,Regional Party,27,12th Pass
+312,Chakradhar Sura,Independent,42,12th Pass
+313,Indali Deo,AAP,64,Postgraduate
+314,Chandran Peri,Independent,31,12th Pass
+315,Barkha Prashad,Regional Party,63,PhD
+316,Adweta Dave,Independent,52,PhD
+317,Kala Grover,BJP,51,PhD
+318,Sachi De,BJP,69,Graduate
+319,Fariq Gopal,BJP,60,Postgraduate
+320,Faqid Datta,Regional Party,41,Graduate
+321,Ijaya Swamy,AAP,26,12th Pass
+322,Samar Sundaram,Regional Party,59,PhD
+323,Logan Sur,Regional Party,29,12th Pass
+324,Anirudh Kara,Regional Party,64,Postgraduate
+325,Orinder Ratta,AAP,31,12th Pass
+326,Ayaan Madan,AAP,68,PhD
+327,Geetika Luthra,INC,74,Postgraduate
+328,Jai Sura,Regional Party,27,12th Pass
+329,Nathaniel Doctor,Regional Party,27,12th Pass
+330,Veda Dada,BJP,66,PhD
+331,Triya Bora,Independent,49,Postgraduate
+332,Ikbal Dutta,INC,50,Graduate
+333,Tristan Panchal,INC,54,Graduate
+334,Tanveer Dugar,Independent,41,12th Pass
+335,Leela Banerjee,INC,39,Postgraduate
+336,Qasim Kakar,Independent,73,Graduate
+337,Chatura Acharya,Independent,57,Graduate
+338,Gavin Khalsa,Independent,41,Graduate
+339,Lekha Dey,BJP,32,Postgraduate
+340,Amrita Char,Regional Party,60,PhD
+341,Rajata Nadig,Independent,72,Postgraduate
+342,William Viswanathan,BJP,26,Graduate
+343,Ayush Puri,BJP,64,Graduate
+344,Jeremiah Chada,Independent,69,Postgraduate
+345,Yachana More,AAP,64,Postgraduate
+346,Chameli Mander,INC,65,PhD
+347,Qabil Kamdar,Independent,57,12th Pass
+348,Vivaan Joshi,Independent,36,PhD
+349,Tamanna Lad,AAP,56,12th Pass
+350,Jonathan Upadhyay,Independent,71,Postgraduate
+351,Warhi Deshpande,AAP,68,Graduate
+352,Bahadurjit Khatri,INC,30,12th Pass
+353,Odika Nazareth,BJP,38,12th Pass
+354,Qarin Ben,Independent,51,PhD
+355,Brinda Bhavsar,AAP,34,12th Pass
+356,Geetika Ramakrishnan,INC,57,12th Pass
+357,Wazir Jain,BJP,64,Postgraduate
+358,Balendra Sarna,INC,57,Postgraduate
+359,Oni Goel,AAP,40,Postgraduate
+360,Riya Seth,AAP,59,PhD
+361,Aradhana Dhar,INC,62,Postgraduate
+362,Jai Buch,Regional Party,54,Postgraduate
+363,Anmol Upadhyay,INC,33,Postgraduate
+364,Champak Nayar,BJP,34,PhD
+365,Aadhya Wadhwa,Independent,42,Postgraduate
+366,Diya Magar,BJP,48,Postgraduate
+367,Zarna Palla,Independent,39,Graduate
+368,Champak Nagy,Independent,71,Postgraduate
+369,Upkaar Sami,Independent,46,Graduate
+370,Yagnesh Upadhyay,INC,47,Postgraduate
+371,Jeet Savant,BJP,58,PhD
+372,Arjun Dani,Regional Party,32,12th Pass
+373,Jacob Sandhu,INC,42,Graduate
+374,Charvi Dhar,INC,65,PhD
+375,Isha Reddy,AAP,48,12th Pass
+376,Bakhshi Srinivas,AAP,56,Postgraduate
+377,Krishna Bir,Independent,62,12th Pass
+378,Aditya Bobal,AAP,29,Graduate
+379,Bhavna Lad,Regional Party,52,Postgraduate
+380,Chasmum Kalla,Regional Party,53,Graduate
+381,Januja Kala,AAP,56,Postgraduate
+382,Priya Ahuja,AAP,30,12th Pass
+383,Chakradev Bhandari,BJP,54,Postgraduate
+384,Bakhshi Magar,INC,41,Postgraduate
+385,Sarthak Raghavan,BJP,46,12th Pass
+386,Anvi Bhalla,INC,54,12th Pass
+387,Vrinda Mitter,Independent,69,12th Pass
+388,Ira Nayar,Independent,29,Postgraduate
+389,Ekaraj Prashad,INC,70,Graduate
+390,Isaac Dugar,INC,45,Graduate
+391,Ranbir Patla,Independent,71,Graduate
+392,Kashish Dutt,Regional Party,31,Postgraduate
+393,Madhavi Uppal,Independent,38,Graduate
+394,Nisha Vohra,INC,62,PhD
+395,Vinaya Kakar,Independent,29,PhD
+396,Luke Sachdeva,Independent,31,Graduate
+397,Aachal Raj,Independent,64,Postgraduate
+398,Zashil Sibal,AAP,46,Postgraduate
+399,Charita Gola,INC,35,Graduate
+400,Theodore Misra,Regional Party,71,Graduate
+401,Yug Sinha,Regional Party,29,12th Pass
+402,Nimrat Chawla,BJP,64,PhD
+403,Urvashi Sen,Independent,69,12th Pass
+404,Balvan Prasad,INC,44,Postgraduate
+405,Onkar Ghose,Independent,42,12th Pass
+406,Owen Vasa,BJP,53,PhD
+407,Yashasvi Aurora,INC,67,Postgraduate
+408,Parth Babu,BJP,69,12th Pass
+409,Zansi Chandran,INC,49,Graduate
+410,Yachana Goel,INC,44,PhD
+411,Gauri Tandon,AAP,71,PhD
+412,Yasti Lal,Independent,44,Postgraduate
+413,Shivani Dewan,AAP,64,12th Pass
+414,Maanav Bath,BJP,30,12th Pass
+415,Kalpit Rai,Regional Party,25,Graduate
+416,Wyatt Gill,BJP,43,Postgraduate
+417,Kashvi Bose,Independent,64,PhD
+418,Harsh Naik,BJP,74,12th Pass
+419,Wyatt Saxena,Regional Party,66,PhD
+420,Jack Raval,Regional Party,55,Graduate
+421,Chatresh Tandon,Independent,45,Graduate
+422,Dominic Sandal,INC,31,Postgraduate
+423,Vedant Khalsa,Independent,58,12th Pass
+424,Jack Palan,Regional Party,53,Graduate
+425,Xavier Mohan,AAP,41,PhD
+426,Balveer Dar,BJP,70,PhD
+427,Rachana Rajagopal,AAP,72,Graduate
+428,Yamini Hegde,BJP,35,12th Pass
+429,Urishilla Solanki,Regional Party,71,PhD
+430,Sathvik Behl,Independent,41,PhD
+431,Andrew Chokshi,BJP,44,Graduate
+432,Max Wali,Independent,44,Postgraduate
+433,Teerth Soman,INC,28,Postgraduate
+434,Timothy Mahajan,Regional Party,48,PhD
+435,Henry Magar,Regional Party,48,Postgraduate
+436,Jyoti Kaur,Independent,74,PhD
+437,Aradhana Yogi,AAP,65,Graduate
+438,Yuvraj Rao,BJP,51,PhD
+439,Qarin Brar,AAP,62,PhD
+440,Lakshit Munshi,Regional Party,35,12th Pass
+441,Kiaan Iyengar,Independent,36,12th Pass
+442,Divya Iyer,INC,69,Postgraduate
+443,Warda Pandit,Independent,42,Postgraduate
+444,Gaurav Sarraf,INC,52,PhD
+445,Quincy Shanker,Regional Party,26,Graduate
+446,Gopal Mandal,AAP,52,Postgraduate
+447,Laban Sen,Independent,38,Graduate
+448,Lucky Basu,Regional Party,36,Graduate
+449,Charan Bajwa,AAP,46,12th Pass
+450,Ira Vig,Independent,46,Postgraduate
+451,Omisha Wali,INC,58,PhD
+452,Jairaj Parmar,Independent,55,Graduate
+453,Christopher Chand,BJP,28,Postgraduate
+454,Garima Majumdar,AAP,25,PhD
+455,Jeet Dar,BJP,29,Postgraduate
+456,Meera Prabhakar,AAP,42,Postgraduate
+457,Yashvi Sunder,INC,33,PhD
+458,Jagvi Dugar,Regional Party,51,12th Pass
+459,Arjun Parsa,INC,50,12th Pass
+460,Chasmum Pradhan,AAP,56,Postgraduate
+461,Harish Sankar,Regional Party,36,PhD
+462,Isaiah Narasimhan,Independent,39,Graduate
+463,Upma Deshmukh,AAP,68,Postgraduate
+464,Gayathri Dugar,Regional Party,59,PhD
+465,Oviya Tailor,INC,74,Postgraduate
+466,Praneel Sathe,Regional Party,70,Graduate
+467,Rajata Savant,AAP,26,PhD
+468,Hitesh Vala,INC,39,PhD
+469,Ubika Oak,AAP,68,PhD
+470,Divya Sura,AAP,38,PhD
+471,Indrajit Hans,INC,25,Postgraduate
+472,Faraj Mannan,Independent,32,PhD
+473,Vihaan Tata,INC,40,Graduate
+474,Indira Ghosh,AAP,38,Postgraduate
+475,Ishanvi Kapoor,BJP,45,Graduate
+476,Isaiah Prabhakar,Regional Party,55,12th Pass
+477,Chaman Ram,INC,66,Postgraduate
+478,Aishani Rana,BJP,42,Postgraduate
+479,Radha Prakash,Independent,38,Graduate
+480,Barkha Choudhury,Independent,72,Postgraduate
+481,Janya Mohan,INC,29,Graduate
+482,Mitali Venkatesh,BJP,42,Postgraduate
+483,Zinal Sandal,BJP,29,Graduate
+484,Gaurangi Rastogi,Regional Party,43,12th Pass
+485,Amrita Mane,INC,37,PhD
+486,Lipika Bumb,INC,41,PhD
+487,Hemal Parmar,AAP,47,Graduate
+488,Zarna Vora,AAP,71,12th Pass
+489,Bimala Menon,Regional Party,74,Graduate
+490,Logan Seth,INC,51,PhD
+491,Dalbir Raja,Regional Party,53,Postgraduate
+492,Sachi Bora,BJP,41,Postgraduate
+493,Ranveer Reddy,INC,69,PhD
+494,Chameli Sagar,Independent,74,PhD
+495,Ekta Kalita,BJP,38,12th Pass
+496,Banjeet Devan,AAP,40,Graduate
+497,Jack Kapur,INC,62,12th Pass
+498,Zashil Mody,BJP,31,Graduate
+499,Jack Lala,INC,73,12th Pass
+500,Om Bhardwaj,Independent,57,12th Pass
+501,Panini Ratta,AAP,47,12th Pass
+502,Alexander Biswas,Independent,38,Postgraduate
+503,Azad Khurana,Regional Party,56,12th Pass
+504,Nilima Merchant,Regional Party,61,PhD
+505,Abeer Rao,Independent,25,Graduate
+506,Lajita Sarna,Independent,54,12th Pass
+507,Ekani Chatterjee,Regional Party,49,Postgraduate
+508,Damini Mohan,INC,29,Postgraduate
+509,Fiyaz Biswas,AAP,72,Graduate
+510,Aadhya Mander,Regional Party,47,12th Pass
+511,Rachana Jayaraman,Independent,49,PhD
+512,Anthony Kothari,BJP,33,PhD
+513,Pranit Rama,Regional Party,41,PhD
+514,Champak Kannan,Independent,37,Graduate
+515,Om Dora,INC,40,PhD
+516,Unnati Parmar,Independent,73,PhD
+517,Nidhi Parmar,INC,57,12th Pass
+518,Kashvi Dar,Regional Party,25,Postgraduate
+519,Pranav Johal,INC,35,Graduate
+520,Jeet Murty,Independent,46,PhD
+521,Akshay Chawla,BJP,32,Postgraduate
+522,Gagan Mani,Regional Party,66,Postgraduate
+523,Kashvi Shankar,Independent,25,Graduate
+524,Ekantika Chahal,AAP,35,PhD
+525,Nicholas Atwal,AAP,50,Graduate
+526,Harrison Dubey,INC,28,Postgraduate
+527,Urishilla Merchant,BJP,64,Graduate
+528,Atharv Balan,AAP,41,Postgraduate
+529,Pratyush Raman,AAP,36,Postgraduate
+530,Daksha Iyengar,Independent,42,PhD
+531,Anvi Chaudhari,INC,35,12th Pass
+532,Inaya Sankaran,Independent,54,Graduate
+533,Ishwar Dubey,Regional Party,29,12th Pass
+534,Robert Natarajan,Regional Party,64,Postgraduate
+535,Samar Sur,Regional Party,33,12th Pass
+536,Raksha D’Alia,BJP,49,Postgraduate
+537,Widisha Balan,INC,58,12th Pass
+538,Odika Ahluwalia,AAP,44,12th Pass
+539,Charan Basu,AAP,65,PhD
+540,Jeevika Kadakia,Regional Party,37,Postgraduate
+541,Lajita Peri,INC,42,PhD
+542,Jagrati Bumb,BJP,35,12th Pass
+543,Noah Goda,AAP,57,Postgraduate
+544,Oviya Iyer,Regional Party,72,PhD
+545,Fitan Kaur,INC,34,Postgraduate
+546,Advay Dewan,Independent,54,Postgraduate
+547,Indrajit Varghese,Independent,48,12th Pass
+548,Samesh Jhaveri,BJP,74,Postgraduate
+549,Tejas Dar,AAP,33,12th Pass
+550,Bishakha Sarraf,Independent,51,12th Pass
+551,Hemal Dhillon,Regional Party,38,12th Pass
+552,Ikbal Gupta,INC,72,Postgraduate
+553,Yagnesh Golla,BJP,37,12th Pass
+554,Timothy Baral,Regional Party,58,12th Pass
+555,William Lala,Independent,56,Postgraduate
+556,Indira Deshpande,BJP,70,PhD
+557,Gaurika Saha,Independent,40,12th Pass
+558,Samesh Patla,BJP,71,Postgraduate
+559,Anjali Jain,INC,47,12th Pass
+560,Peter Shan,INC,46,Postgraduate
+561,Samuel Narayanan,BJP,33,Postgraduate
+562,Jagrati Grover,BJP,37,12th Pass
+563,Oliver Borra,INC,66,PhD
+564,Ikbal Oak,Independent,35,Graduate
+565,Ekalinga Sarkar,INC,60,Graduate
+566,Warda Char,Regional Party,44,Postgraduate
+567,Ranveer Kaul,AAP,59,Postgraduate
+568,Om Lad,Regional Party,29,12th Pass
+569,Harshil Rajan,Regional Party,46,Postgraduate
+570,Yadavi Goel,Independent,61,PhD
+571,Zarna Shere,AAP,32,PhD
+572,Triya Yohannan,BJP,25,PhD
+573,Vincent Thakur,AAP,31,Postgraduate
+574,Pushti Rajan,INC,45,Postgraduate
+575,Abdul Chhabra,BJP,67,Graduate
+576,Bakhshi Chhabra,Independent,52,PhD
+577,Vasatika Peri,AAP,68,PhD
+578,Dominic Das,INC,57,12th Pass
+579,Anya Zachariah,BJP,70,Postgraduate
+580,Rohan Shere,Regional Party,69,Postgraduate
+581,Vrishti Koshy,Regional Party,30,Postgraduate
+582,Nandini Contractor,Independent,51,Graduate
+583,Mekhala Murthy,Independent,42,12th Pass
+584,Eta Sampath,INC,67,Graduate
+585,Yashvi Vig,BJP,74,Postgraduate
+586,Eta Basu,BJP,45,Graduate
+587,Farhan Srinivas,Regional Party,38,PhD
+588,Forum Tandon,AAP,25,12th Pass
+589,Oscar Dhillon,INC,35,Postgraduate
+590,Chanakya Manda,BJP,43,Graduate
+591,Tarak Sethi,Independent,49,Graduate
+592,Darsh Ramakrishnan,Independent,71,12th Pass
+593,Vritti Varghese,AAP,43,PhD
+594,Aradhana Boase,BJP,60,PhD
+595,Krish Kannan,AAP,55,12th Pass
+596,Aadi Sanghvi,INC,29,12th Pass
+597,Upma Boase,AAP,41,PhD
+598,Jagdish Krishnamurthy,Independent,51,12th Pass
+599,Prisha Ram,AAP,73,Graduate
+600,Samaksh Sibal,Independent,45,Postgraduate
+601,Kamala Varma,Independent,47,Postgraduate
+602,Chameli Narain,BJP,55,Postgraduate
+603,Lavanya Jha,INC,66,12th Pass
+604,Advaith Kapoor,Regional Party,30,12th Pass
+605,Rishi Kapur,Regional Party,53,Postgraduate
+606,Jagrati Mand,Regional Party,38,PhD
+607,Abhimanyu Joshi,INC,51,Postgraduate
+608,Gaurav Dasgupta,AAP,54,12th Pass
+609,Kevin Sarin,Regional Party,48,Postgraduate
+610,Laksh Kumar,INC,45,PhD
+611,Zansi Shankar,INC,36,Postgraduate
+612,Netra Nadkarni,BJP,68,PhD
+613,Gabriel Batra,Regional Party,68,Postgraduate
+614,Karan Parmar,AAP,73,12th Pass
+615,Hredhaan Thaman,Independent,25,PhD
+616,Omaja Lad,INC,69,Postgraduate
+617,Isaiah Chana,INC,56,Graduate
+618,Mason Sarin,BJP,32,12th Pass
+619,Yoshita Naidu,BJP,25,Postgraduate
+620,Jhalak Chadha,Regional Party,43,Graduate
+621,Naksh Pillai,BJP,51,12th Pass
+622,Arin Garde,AAP,63,Postgraduate
+623,Tarak Ray,INC,31,12th Pass
+624,Urvi Shere,Independent,42,PhD
+625,Nitesh Vig,Regional Party,31,Graduate
+626,Triya More,AAP,32,Postgraduate
+627,Ansh Divan,Independent,36,PhD
+628,Anvi Chauhan,Independent,67,Postgraduate
+629,Owen Tandon,Independent,41,Graduate
+630,Jeet Chandra,Independent,27,PhD
+631,Lohit Seth,BJP,63,12th Pass
+632,Krisha Balan,Independent,52,PhD
+633,Turvi Dora,Independent,55,12th Pass
+634,Dakshesh Shenoy,Independent,41,Graduate
+635,Faraj Palla,INC,70,12th Pass
+636,Rachit Lall,Independent,43,Postgraduate
+637,Widisha Date,INC,35,PhD
+638,Brijesh Shukla,BJP,58,Graduate
+639,Timothy Mody,BJP,70,Postgraduate
+640,Zayyan Rajagopal,BJP,40,Graduate
+641,Hemangini Jain,AAP,61,Postgraduate
+642,Aashi Master,Independent,52,Postgraduate
+643,Rehaan Patel,INC,70,12th Pass
+644,Turvi Malhotra,AAP,74,12th Pass
+645,Niharika Dugar,INC,71,12th Pass
+646,Darsh Luthra,Independent,43,Postgraduate
+647,Madhavi Ganesan,AAP,31,12th Pass
+648,Nandini Raghavan,AAP,51,Graduate
+649,Abha Handa,BJP,40,Graduate
+650,Anvi Kumar,Regional Party,25,Graduate
+651,Qushi Kuruvilla,AAP,36,Graduate
+652,Kala Bedi,Regional Party,45,Graduate
+653,Upkaar Dayal,AAP,61,PhD
+654,Qasim Acharya,Regional Party,38,Graduate
+655,Anika Manda,AAP,27,Graduate
+656,Reyansh Wason,INC,44,Postgraduate
+657,Daksha Bakshi,AAP,38,PhD
+658,Raksha Wable,Regional Party,39,Postgraduate
+659,Viraj Mall,AAP,73,Postgraduate
+660,Pahal Hayre,BJP,70,12th Pass
+661,Harini Kapadia,Regional Party,34,PhD
+662,Ishanvi Gara,Independent,41,Postgraduate
+663,Chanchal Gour,INC,46,Graduate
+664,Naksh Kannan,Regional Party,63,PhD
+665,Wishi Muni,Independent,32,Graduate
+666,Krish Suresh,Independent,37,PhD
+667,Omkaar Balay,INC,74,Graduate
+668,Varsha Suri,Regional Party,52,PhD
+669,Imaran Tella,BJP,41,Postgraduate
+670,Daksha Hayer,Regional Party,29,12th Pass
+671,Balhaar Gala,Regional Party,70,PhD
+672,Maya Saini,BJP,55,PhD
+673,Tanvi Deol,Independent,48,Postgraduate
+674,Ekanta Kaur,INC,45,PhD
+675,Nihal Agrawal,Regional Party,49,PhD
+676,Samuel Oommen,INC,47,Postgraduate
+677,Daksh Radhakrishnan,AAP,47,12th Pass
+678,Ekapad Bhandari,Independent,41,Postgraduate
+679,Ojas Rege,Regional Party,43,Postgraduate
+680,Timothy Sha,Regional Party,43,12th Pass
+681,Kiaan Reddy,AAP,55,Graduate
+682,Ria Ramaswamy,AAP,59,Graduate
+683,Pranav Sibal,BJP,72,12th Pass
+684,Harrison Seth,BJP,50,12th Pass
+685,Neelima Rama,AAP,57,PhD
+686,Tanish Modi,BJP,67,Graduate
+687,Ubika Suresh,INC,52,PhD
+688,Shravya Wason,Regional Party,45,Graduate
+689,Samaksh Babu,BJP,34,Postgraduate
+690,Jagrati Ramaswamy,Regional Party,55,PhD
+691,Quincy Ravi,INC,73,Postgraduate
+692,Ira Singh,Independent,65,Postgraduate
+693,Gaurang Modi,BJP,47,Postgraduate
+694,Harinakshi Kashyap,AAP,63,Postgraduate
+695,Jagvi Lata,INC,74,Postgraduate
+696,Ishaan Prabhakar,Regional Party,68,PhD
+697,Hritik Kala,BJP,54,Graduate
+698,Wakeeta Mukherjee,Regional Party,29,PhD
+699,Manbir Sahni,BJP,65,Postgraduate
+700,Elijah Raghavan,Regional Party,38,PhD
+701,Kabir Agarwal,BJP,72,Postgraduate
+702,Mekhala Parmar,Regional Party,50,PhD
+703,Krish Nagi,BJP,66,12th Pass
+704,Mohini Bala,AAP,50,Postgraduate
+705,Chatresh Kala,Regional Party,27,Graduate
+706,Sathvik Dayal,Independent,64,Postgraduate
+707,Chatresh Jhaveri,Independent,46,PhD
+708,Qushi Zachariah,INC,31,12th Pass
+709,Nirja Gill,Regional Party,32,12th Pass
+710,Aarav Sheth,BJP,62,12th Pass
+711,Prisha Apte,Independent,57,Graduate
+712,Kashish Agarwal,AAP,71,Postgraduate
+713,Pushti Bhat,Independent,66,12th Pass
+714,Irya Badami,Regional Party,41,Postgraduate
+715,Manthan More,BJP,35,Postgraduate
+716,Chakradhar Banerjee,BJP,47,12th Pass
+717,Ekalinga Patla,Independent,55,PhD
+718,Rachit Sathe,Regional Party,59,Postgraduate
+719,Wriddhish Thakkar,Independent,52,12th Pass
+720,Anmol Patla,BJP,28,PhD
+721,Parth Babu,AAP,55,Graduate
+722,Mohammed Chatterjee,Independent,27,PhD
+723,Xiti Nigam,AAP,59,12th Pass
+724,Barkha Kala,Regional Party,30,PhD
+725,Anika Natarajan,Regional Party,44,Postgraduate
+726,Quincy Dugar,Regional Party,34,Postgraduate
+727,Fitan Parsa,Regional Party,62,Postgraduate
+728,Pooja Lad,AAP,67,PhD
+729,Oni Dutta,AAP,39,Graduate
+730,Advik Pathak,INC,37,PhD
+731,Dev Srivastava,BJP,74,Postgraduate
+732,Eesha Jaggi,Regional Party,37,Postgraduate
+733,Tanvi Varghese,INC,62,PhD
+734,Ansh Mishra,Independent,46,Graduate
+735,Kai Jani,AAP,68,12th Pass
+736,Champak Kurian,BJP,63,12th Pass
+737,Oviya Mohanty,Independent,57,Postgraduate
+738,Ishani Varty,BJP,36,12th Pass
+739,Mohini Trivedi,Independent,64,12th Pass
+740,Jagvi Krishnan,Regional Party,67,Postgraduate
+741,Hema Mittal,Regional Party,68,Postgraduate
+742,Dhriti Dube,BJP,51,Postgraduate
+743,Ojasvi Mukhopadhyay,Independent,44,12th Pass
+744,Kiaan Dar,AAP,39,Graduate
+745,Samaksh Mammen,Regional Party,40,12th Pass
+746,Libni Mall,Regional Party,51,12th Pass
+747,Reva Sandhu,BJP,70,12th Pass
+748,Hema Mistry,INC,47,PhD
+749,Ekanta Dugar,Regional Party,60,12th Pass
+750,Pratyush Buch,Independent,59,12th Pass
+751,Sachi Grover,Regional Party,37,Graduate
+752,Rajeshri Rattan,AAP,33,Postgraduate
+753,Oni Patel,BJP,69,Graduate
+754,Jonathan Keer,Regional Party,66,PhD
+755,Hemang Vala,INC,32,PhD
+756,Amrita Barad,INC,57,Postgraduate
+757,Jeet Devan,AAP,62,12th Pass
+758,Champak Menon,INC,28,PhD
+759,Januja Dyal,INC,72,Graduate
+760,Lohit Arora,BJP,28,Postgraduate
+761,Victor Atwal,AAP,45,Postgraduate
+762,Anmol Bala,Independent,64,Postgraduate
+763,Vansha Bala,Regional Party,29,Graduate
+764,Rachit Sheth,BJP,45,12th Pass
+765,Tanish Singhal,Regional Party,63,PhD
+766,Lila Bora,INC,40,Graduate
+767,Jatin Purohit,BJP,44,12th Pass
+768,Harish Bansal,INC,44,Graduate
+769,Vaishnavi Suri,AAP,42,12th Pass
+770,Ayush Chatterjee,Regional Party,52,12th Pass
+771,Chaman Lanka,Independent,35,12th Pass
+772,Baghyawati Sachdeva,Regional Party,32,12th Pass
+773,Abeer Lal,BJP,37,PhD
+774,Ikshita Gera,Regional Party,59,Postgraduate
+775,Sudiksha Pau,Regional Party,34,PhD
+776,Ria Garg,BJP,37,Postgraduate
+777,Amrita Pandey,INC,30,Graduate
+778,Anusha Thaman,BJP,65,Postgraduate
+779,Dayita Anand,BJP,45,PhD
+780,Thomas Khosla,Regional Party,27,PhD
+781,Oviya Chad,INC,33,Postgraduate
+782,Yamini Ravel,INC,54,12th Pass
+783,Chavvi Agate,Regional Party,63,Graduate
+784,Laban Mall,AAP,52,12th Pass
+785,Yahvi Dada,INC,36,PhD
+786,Darsh Chacko,INC,38,PhD
+787,Sai Dhingra,Independent,53,Postgraduate
+788,Faris Sankar,Independent,49,Graduate
+789,Anita Raval,BJP,68,Postgraduate
+790,Michael Oak,Independent,58,PhD
+791,Faras Handa,BJP,34,Graduate
+792,Urvashi Ahuja,AAP,36,Graduate
+793,Neelima Raghavan,Independent,44,Graduate
+794,Chakrika Khare,AAP,28,12th Pass
+795,Harini Prasad,INC,47,PhD
+796,Udant Dugar,Independent,43,PhD
+797,Falguni Vig,Regional Party,61,PhD
+798,Siya Keer,Independent,55,PhD
+799,Vihaan Bora,Regional Party,58,Graduate
+800,Alka Memon,Regional Party,59,Postgraduate
+801,Zehaan Choudhary,BJP,46,Graduate
+802,Forum Mall,AAP,35,12th Pass
+803,Falak Kulkarni,AAP,44,PhD
+804,Turvi Bali,AAP,56,Postgraduate
+805,Niharika Taneja,Regional Party,63,Postgraduate
+806,Manya Venkatesh,BJP,28,Graduate
+807,Indira Loyal,BJP,67,Graduate
+808,Arunima Lall,AAP,41,PhD
+809,Karan Dewan,BJP,41,Graduate
+810,Ekaraj Merchant,INC,43,PhD
+811,Saksham Rau,Regional Party,52,PhD
+812,Yauvani Hans,Independent,57,Graduate
+813,Tanveer Kala,INC,63,PhD
+814,Ojas Saraf,AAP,71,Postgraduate
+815,Hamsini Pandya,INC,51,PhD
+816,Pratyush Palla,INC,54,Graduate
+817,Odika Narayanan,BJP,55,Graduate
+818,Gavin Balay,INC,61,Graduate
+819,Amara Wali,AAP,42,12th Pass
+820,Damini Nayar,AAP,49,PhD
+821,Yug Sankaran,Regional Party,46,Postgraduate
+822,Yuvraj Seth,Independent,51,PhD
+823,Yuvraj Lal,BJP,31,PhD
+824,Jatin Deep,INC,30,Postgraduate
+825,Viraj Lad,Regional Party,51,PhD
+826,Devansh Chowdhury,INC,44,PhD
+827,Aarnav Patel,BJP,31,Postgraduate
+828,Ranbir Zacharia,BJP,66,Postgraduate
+829,Gaurang Merchant,AAP,64,Graduate
+830,Hardik Naik,AAP,70,Graduate
+831,Jagvi Choudhary,INC,33,Postgraduate
+832,Amol Srivastava,AAP,41,12th Pass
+833,Unnati Parmer,Independent,63,12th Pass
+834,Jagrati Maharaj,INC,56,Graduate
+835,Sudiksha Pandit,Regional Party,40,12th Pass
+836,Jonathan Goyal,BJP,40,12th Pass
+837,Yachana Bakshi,AAP,73,PhD
+838,Hema Jha,Independent,60,Postgraduate
+839,Ubika Dhar,Regional Party,44,Graduate
+840,Aahana Roy,BJP,46,12th Pass
+841,Gagan Gara,AAP,61,12th Pass
+842,Hiral Amble,BJP,54,12th Pass
+843,Ridhi Sule,INC,39,Postgraduate
+844,Gopal Devi,INC,70,12th Pass
+845,Ekapad Saraf,Independent,37,PhD
+846,Ishanvi Mand,Regional Party,26,12th Pass
+847,Meghana Shenoy,AAP,49,Graduate
+848,Reyansh Iyengar,AAP,52,PhD
+849,Mohammed Chahal,AAP,28,Postgraduate
+850,Faraj De,Independent,49,PhD
+851,Harita Mutti,BJP,47,PhD
+852,Azad Krishnan,Independent,67,PhD
+853,Jhalak Das,INC,46,Postgraduate
+854,Unnati Pandya,BJP,30,PhD
+855,Kamala Tella,AAP,67,12th Pass
+856,Yatan Varty,Independent,72,12th Pass
+857,Yachana Chaudhari,BJP,63,12th Pass
+858,Vihaan Sachdeva,AAP,31,12th Pass
+859,Jeremiah Parsa,Regional Party,39,Postgraduate
+860,Zilmil Sandal,BJP,38,Graduate
+861,Gauri Pant,Independent,44,Graduate
+862,Aryan Nayar,AAP,50,PhD
+863,Laksh Gaba,INC,38,12th Pass
+864,Teerth Seshadri,AAP,53,Postgraduate
+865,Vedika Choudhry,AAP,46,12th Pass
+866,Brijesh Bera,AAP,36,Postgraduate
+867,Ira Baral,Independent,29,12th Pass
+868,Vanya Sanghvi,INC,57,Graduate
+869,Samarth Bhatnagar,Independent,42,Postgraduate
+870,Aayush Pau,Regional Party,33,12th Pass
+871,Jagat Karnik,AAP,48,12th Pass
+872,Aarav Warrior,INC,58,Postgraduate
+873,Bhavna Kamdar,Regional Party,69,Postgraduate
+874,Arya Chana,AAP,27,12th Pass
+875,Bachittar Kannan,AAP,51,PhD
+876,Harinakshi Garde,Independent,26,Graduate
+877,Tejas Pillai,Independent,46,Graduate
+878,Neha Choudhury,Regional Party,53,Postgraduate
+879,Pranav Borah,BJP,71,PhD
+880,Kavya Chawla,BJP,25,Postgraduate
+881,Widisha Kapoor,BJP,54,Graduate
+882,Ishanvi Upadhyay,AAP,35,Postgraduate
+883,Yauvani Sarraf,BJP,58,Graduate
+884,Charita Keer,AAP,67,Graduate
+885,Ladli Mody,AAP,53,PhD
+886,Parth Jain,AAP,66,PhD
+887,Tanvi Chawla,INC,49,Postgraduate
+888,Nitara Munshi,Independent,50,PhD
+889,Vihaan Barman,BJP,34,PhD
+890,Ranveer Barman,INC,35,Graduate
+891,Kashvi Gole,Independent,36,Graduate
+892,Krisha Balan,INC,63,PhD
+893,Gaurangi Patil,BJP,53,PhD
+894,Faraj Brahmbhatt,AAP,44,Graduate
+895,Vidhi Nigam,BJP,61,Graduate
+896,Amruta Bhatti,Independent,52,Graduate
+897,Tara Varty,BJP,52,PhD
+898,Hema Narula,Independent,46,12th Pass
+899,Meghana Bobal,Independent,54,Graduate
+900,Jasmit Taneja,Regional Party,62,12th Pass
+901,Christopher Kakar,BJP,60,Postgraduate
+902,Imaran Vig,Regional Party,35,Postgraduate
+903,Ekta Agate,Independent,59,Graduate
+904,Isha Das,INC,62,12th Pass
+905,Jackson Mitra,INC,69,Postgraduate
+906,Nathan Handa,AAP,61,Graduate
+907,Ethan Nanda,Regional Party,62,Postgraduate
+908,Raagini Majumdar,BJP,40,PhD
+909,Lopa Golla,AAP,43,PhD
+910,Tanish Mittal,Independent,44,12th Pass
+911,Urvi Natt,AAP,71,12th Pass
+912,Nitesh Sachdev,BJP,57,PhD
+913,Amruta Apte,AAP,30,PhD
+914,Kamya Dua,Independent,62,PhD
+915,Faqid Bail,Independent,50,Graduate
+916,Timothy Shroff,INC,53,12th Pass
+917,Darsh Prabhakar,Regional Party,71,Postgraduate
+918,Ganga Vasa,AAP,26,Graduate
+919,Kai Pandey,BJP,42,Postgraduate
+920,Eiravati Handa,Regional Party,42,Graduate
+921,Zayyan Chopra,AAP,61,12th Pass
+922,Darika Sami,BJP,33,PhD
+923,Urmi Kurian,BJP,58,Postgraduate
+924,Pallavi Chadha,INC,42,12th Pass
+925,Anika Dyal,Independent,45,Postgraduate
+926,Bimala Choudhry,INC,44,PhD
+927,Omaja Ravi,INC,40,PhD
+928,Wishi Grover,AAP,53,PhD
+929,Vrinda Tata,AAP,34,Graduate
+930,Amrita Samra,Independent,37,Postgraduate
+931,Vyanjana Luthra,BJP,29,12th Pass
+932,Christopher Kata,INC,45,PhD
+933,Ira Memon,AAP,56,Postgraduate
+934,Guneet Mitter,Regional Party,41,PhD
+935,Ekapad Kothari,Independent,32,Graduate
+936,Wazir Bains,INC,50,12th Pass
+937,Yuvraj Basak,BJP,65,Graduate
+938,Udant Sankaran,Regional Party,29,12th Pass
+939,Nakul Chokshi,Independent,71,Postgraduate
+940,Hitesh Prashad,Independent,56,Postgraduate
+941,Saanvi Bir,BJP,71,Graduate
+942,Nakul Kannan,Regional Party,35,PhD
+943,Upma Kapadia,BJP,65,Postgraduate
+944,Chaman Patla,BJP,60,Graduate
+945,Manan Ganesh,BJP,36,Graduate
+946,Panini Pant,Independent,72,PhD
+947,Yash Narayan,Independent,45,Graduate
+948,Avni Ray,AAP,41,PhD
+949,Tanish Barman,INC,43,Graduate
+950,Aayush Suri,Regional Party,42,Postgraduate
+951,Siddharth Desai,BJP,59,Postgraduate
+952,Ansh Mangat,BJP,46,12th Pass
+953,Warhi Singh,Independent,72,PhD
+954,Wahab Kota,Regional Party,63,PhD
+955,Qushi Hans,AAP,43,Postgraduate
+956,Aishani Nagy,Regional Party,70,PhD
+957,Dakshesh Murty,Regional Party,51,12th Pass
+958,Bhavani Deep,INC,25,Graduate
+959,Gaurika Ramakrishnan,BJP,45,PhD
+960,Fariq Walia,Independent,69,Postgraduate
+961,Vritti Palla,Independent,53,Postgraduate
+962,Abha Chahal,BJP,61,Graduate
+963,Lohit Chander,Regional Party,40,PhD
+964,Abeer Guha,Independent,36,12th Pass
+965,Kritika Nair,AAP,63,12th Pass
+966,Gopal Soman,BJP,73,Postgraduate
+967,Noah Sahota,Independent,71,Postgraduate
+968,Akshay Sengupta,INC,72,Postgraduate
+969,Kashish Arya,AAP,49,Graduate
+970,Maya Kala,Independent,35,Postgraduate
+971,Jasmit Memon,Regional Party,51,Graduate
+972,Ethan Sodhi,AAP,58,Postgraduate
+973,Laksh Subramanian,Regional Party,25,Graduate
+974,Chaman Parmer,AAP,52,PhD
+975,Samaksh Shetty,Independent,28,Postgraduate
+976,Imaran Bhatnagar,INC,38,Graduate
+977,Ranbir Morar,INC,59,Postgraduate
+978,Yamini Virk,Independent,61,PhD
+979,Warinder Thakur,BJP,52,Postgraduate
+980,Upkaar Prabhu,Independent,30,Postgraduate
+981,Girik Bedi,BJP,73,PhD
+982,Champak Sawhney,Independent,45,Graduate
+983,Nachiket Raval,BJP,29,PhD
+984,Krishna Parikh,BJP,56,PhD
+985,Frado Nadkarni,Regional Party,63,PhD
+986,Aarna Dass,INC,39,Graduate
+987,Nachiket Doshi,BJP,65,12th Pass
+988,Panini Palla,Independent,57,12th Pass
+989,Matthew Bhat,AAP,62,12th Pass
+990,Pranav Goswami,BJP,63,12th Pass
+991,Qasim D’Alia,BJP,28,PhD
+992,Rudra Pant,Independent,71,Postgraduate
+993,Ekani Raju,Regional Party,63,Graduate
+994,Gautami Srinivasan,Independent,68,Postgraduate
+995,Abeer Oak,Independent,67,Postgraduate
+996,Zehaan Yogi,Regional Party,47,Graduate
+997,Lohit Solanki,Independent,28,12th Pass
+998,Jack Ganesan,Independent,29,12th Pass
+999,Qadim Divan,BJP,42,12th Pass
+1000,Zilmil Chandran,AAP,25,Postgraduate
+1001,Gautam Khurana,INC,74,PhD
+1002,Girindra Dutta,Regional Party,31,Postgraduate
+1003,Harinakshi Samra,INC,53,PhD
+1004,Charvi Sekhon,Regional Party,64,Postgraduate
+1005,Yashasvi Kari,BJP,50,12th Pass
+1006,Wakeeta Sura,Independent,39,Postgraduate
+1007,Kashvi Shan,Regional Party,45,Graduate
+1008,Eta Goda,AAP,74,12th Pass
+1009,Rehaan Tella,AAP,55,Postgraduate
+1010,Ryan Virk,AAP,46,PhD
+1011,Diya Ben,Regional Party,36,Postgraduate
+1012,Kalpit Golla,Regional Party,27,Graduate
+1013,Jagvi Ben,AAP,56,PhD
+1014,Thomas Mand,AAP,66,Postgraduate
+1015,Saanvi Iyengar,Independent,72,Graduate
+1016,Zinal Varty,AAP,54,PhD
+1017,Jackson Chaudhry,Regional Party,61,PhD
+1018,Neha Tella,Independent,50,Graduate
+1019,Meghana Mand,INC,34,Graduate
+1020,Ekiya Patil,BJP,33,Postgraduate
+1021,Gaurangi Bhat,AAP,45,Graduate
+1022,Bhavna Sibal,AAP,68,Graduate
+1023,Kiaan Gola,Regional Party,27,Graduate
+1024,Yahvi Deep,Independent,43,12th Pass
+1025,Tara Ram,INC,55,PhD
+1026,Kalpit Wadhwa,AAP,66,Graduate
+1027,Idika Sridhar,AAP,58,Postgraduate
+1028,Finn Tara,INC,31,PhD
+1029,Reyansh Manda,Independent,38,PhD
+1030,Aryan Dhillon,INC,60,12th Pass
+1031,Kashvi Batra,Regional Party,46,Postgraduate
+1032,Charan Palla,Independent,70,Graduate
+1033,Teerth Tripathi,INC,63,PhD
+1034,Maya Sehgal,Independent,61,Postgraduate
+1035,Caleb Vyas,Independent,60,Graduate
+1036,Manan Krishnan,Regional Party,45,Graduate
+1037,Wyatt Thakur,INC,72,Graduate
+1038,Kamala Talwar,Independent,68,PhD
+1039,Thomas Patla,Independent,44,Graduate
+1040,Jagdish Handa,Regional Party,44,Postgraduate
+1041,Qadim Deol,INC,63,Graduate
+1042,Daksh Dave,Regional Party,42,Postgraduate
+1043,Dhruv Bobal,AAP,42,PhD
+1044,Anirudh Bava,Regional Party,65,PhD
+1045,Odika Pillay,AAP,34,Graduate
+1046,Rajata Dugar,BJP,61,PhD
+1047,Tanish Dora,INC,60,PhD
+1048,Nikita Palla,INC,67,12th Pass
+1049,Wyatt Datta,Regional Party,59,PhD
+1050,Oviya Mand,Independent,26,PhD
+1051,Zarna Sachar,Independent,71,12th Pass
+1052,Yashawini Bath,Regional Party,56,12th Pass
+1053,Tanay Patla,AAP,33,12th Pass
+1054,Harrison Shroff,BJP,29,12th Pass
+1055,Gaurangi Grewal,INC,51,Postgraduate
+1056,Ayaan Roy,Independent,36,PhD
+1057,Ishanvi Pal,BJP,32,Graduate
+1058,Indali Dayal,Independent,47,12th Pass
+1059,Harita Raval,Regional Party,61,PhD
+1060,Lakshmi Johal,Regional Party,48,12th Pass
+1061,Harita Halder,Independent,30,12th Pass
+1062,Jagrati Sahota,Regional Party,51,PhD
+1063,Balendra Batta,INC,38,Graduate
+1064,Raagini Ravel,BJP,59,PhD
+1065,Forum Sheth,BJP,37,Postgraduate
+1066,Ati Johal,BJP,62,Postgraduate
+1067,Deepa Char,BJP,35,Graduate
+1068,Maya Kashyap,BJP,51,Postgraduate
+1069,Henry Dewan,AAP,28,Graduate
+1070,Frederick Ben,Regional Party,74,12th Pass
+1071,Upadhriti Khare,Regional Party,27,12th Pass
+1072,Qushi Patla,BJP,47,PhD
+1073,Libni Keer,Independent,25,12th Pass
+1074,Ati Bedi,INC,58,Postgraduate
+1075,Rohan Trivedi,Regional Party,38,12th Pass
+1076,Baghyawati Konda,Regional Party,71,12th Pass
+1077,Rachita Bhatt,Independent,62,Graduate
+1078,Tripti Aggarwal,Independent,25,PhD
+1079,Idika Pandit,INC,41,12th Pass
+1080,Darsh Sachdeva,Independent,33,PhD
+1081,Anjali Lad,Regional Party,50,PhD
+1082,Rachit Patel,INC,71,Postgraduate
+1083,Hemang Yogi,Independent,57,PhD
+1084,Tristan Dyal,BJP,37,Postgraduate
+1085,Omya Mane,BJP,53,PhD
+1086,Zashil Madan,BJP,35,12th Pass
+1087,Jasmit Gupta,AAP,58,Postgraduate
+1088,Zashil Walia,BJP,43,12th Pass
+1089,Alexander Pingle,Regional Party,40,Postgraduate
+1090,Bhavna Khare,AAP,52,Graduate
+1091,Sanaya Barad,BJP,64,Postgraduate
+1092,Jhalak Hayre,Independent,36,PhD
+1093,Nitesh Nair,Independent,63,PhD
+1094,Bhavika Koshy,INC,74,Graduate
+1095,Netra Bhagat,Independent,59,12th Pass
+1096,Dayita Viswanathan,INC,64,Graduate
+1097,Waida Varkey,INC,40,Graduate
+1098,Arjun Morar,AAP,35,PhD
+1099,Gaurav Natarajan,Regional Party,58,Graduate
+1100,Bishakha Bera,AAP,38,PhD
+1101,Pahal Setty,Independent,34,PhD
+1102,Bhanumati Dyal,BJP,71,PhD
+1103,Sanya Kade,Independent,54,Graduate
+1104,Jack Pal,Independent,34,Postgraduate
+1105,Ethan Ben,Independent,29,12th Pass
+1106,Darpan Thakkar,Regional Party,36,PhD
+1107,Mekhala Mittal,AAP,46,Graduate
+1108,Amaira Nazareth,Independent,43,Postgraduate
+1109,Nihal Padmanabhan,AAP,73,12th Pass
+1110,Yutika Bora,INC,65,12th Pass
+1111,Odika Krish,Regional Party,25,Postgraduate
+1112,Dayita Mitter,INC,25,PhD
+1113,Lopa Talwar,Independent,26,Postgraduate
+1114,Aryan Upadhyay,INC,49,PhD
+1115,Ranveer Dasgupta,Independent,39,PhD
+1116,Isaac Sani,AAP,55,PhD
+1117,Lipika Kumar,Independent,26,12th Pass
+1118,Yutika Bajaj,BJP,71,PhD
+1119,Qadim Saxena,INC,65,12th Pass
+1120,Urvi Dasgupta,INC,27,12th Pass
+1121,Osha Palla,INC,29,Graduate
+1122,Raksha Borah,Regional Party,49,12th Pass
+1123,Gaurika Mutti,AAP,62,Graduate
+1124,Libni Narayan,Regional Party,31,Graduate
+1125,Bhavini Bala,Independent,40,12th Pass
+1126,Leela Bali,INC,64,12th Pass
+1127,Yoshita Gulati,Regional Party,25,12th Pass
+1128,Wahab Bhargava,BJP,74,Postgraduate
+1129,Ishwar Bains,BJP,33,PhD
+1130,Xavier Dhar,AAP,50,Graduate
+1131,Bhavya Sangha,AAP,41,12th Pass
+1132,Zaitra Rege,Regional Party,56,12th Pass
+1133,Amol Subramanian,AAP,35,Postgraduate
+1134,Neel Bahl,BJP,27,Graduate
+1135,Rajata Chandra,BJP,60,Graduate
+1136,Balendra Khare,INC,43,Postgraduate
+1137,Eta Som,INC,63,PhD
+1138,Daksh Bahl,INC,50,PhD
+1139,Aarini Merchant,Independent,69,PhD
+1140,Hardik Patil,Regional Party,34,12th Pass
+1141,Mugdha Kalla,AAP,59,Graduate
+1142,Harini Ravel,INC,41,Postgraduate
+1143,Vedhika Balan,INC,61,PhD
+1144,Oscar Setty,AAP,29,Graduate
+1145,Watika Kothari,Independent,34,Postgraduate
+1146,Isaiah Deshmukh,Independent,68,12th Pass
+1147,Yash Dubey,BJP,55,12th Pass
+1148,Vincent Chand,BJP,60,12th Pass
+1149,Nachiket Chaudhari,BJP,71,Graduate
+1150,Ansh Bir,BJP,30,PhD
+1151,Chasmum Rana,INC,48,Postgraduate
+1152,Radhika Pau,Regional Party,50,Postgraduate
+1153,Pavani Tata,Independent,61,Graduate
+1154,Eesha Saraf,Independent,32,Postgraduate
+1155,Falak Goswami,BJP,71,Postgraduate
+1156,Yauvani Luthra,AAP,44,Graduate
+1157,Yashawini Din,Regional Party,50,Postgraduate
+1158,Nilima Purohit,Regional Party,46,Graduate
+1159,Eta Ramanathan,AAP,41,12th Pass
+1160,Alka Brahmbhatt,BJP,26,Postgraduate
+1161,Ranveer Parmar,INC,42,PhD
+1162,Sudiksha Arora,Regional Party,39,Graduate
+1163,Saumya Dhawan,Regional Party,73,12th Pass
+1164,Diya Nagarajan,BJP,58,PhD
+1165,Victor Gupta,AAP,46,Graduate
+1166,Bhavani Gola,Regional Party,60,Graduate
+1167,Eesha Nori,INC,55,PhD
+1168,Tanvi Ghose,AAP,46,Graduate
+1169,Luke Dube,AAP,30,Graduate
+1170,Ira Pingle,INC,56,Postgraduate
+1171,Pooja Saini,BJP,50,Postgraduate
+1172,Rehaan Lala,Regional Party,27,Graduate
+1173,Raghav Doctor,Independent,49,PhD
+1174,Utkarsh Singhal,Independent,32,12th Pass
+1175,Vincent Chana,AAP,67,Postgraduate
+1176,Rajata Malhotra,AAP,37,12th Pass
+1177,Irya Bobal,BJP,67,12th Pass
+1178,Tanveer Mittal,AAP,51,PhD
+1179,Gavin Acharya,AAP,40,Graduate
+1180,Ekaraj Srivastava,Regional Party,25,12th Pass
+1181,Yochana Chandra,INC,64,Postgraduate
+1182,Kritika Gour,Regional Party,27,Graduate
+1183,Janya Chhabra,BJP,46,Postgraduate
+1184,Jeremiah Saran,INC,57,12th Pass
+1185,Radhika Sanghvi,Independent,31,12th Pass
+1186,Chameli Pai,BJP,59,12th Pass
+1187,Ishanvi Arya,Regional Party,46,12th Pass
+1188,Ucchal Sachdeva,AAP,64,PhD
+1189,Vinaya Krishnamurthy,Regional Party,55,12th Pass
+1190,Prisha Mukherjee,AAP,68,Postgraduate
+1191,Indali Uppal,INC,70,Postgraduate
+1192,Maanav Korpal,AAP,73,PhD
+1193,Hitesh Kakar,Independent,50,Graduate
+1194,Waida Brar,Independent,64,Graduate
+1195,Jalsa Kulkarni,INC,74,12th Pass
+1196,Devika Aggarwal,INC,50,Postgraduate
+1197,Faris Doshi,AAP,55,Postgraduate
+1198,Ria Yadav,Regional Party,31,12th Pass
+1199,Maanav Joshi,Independent,39,PhD
+1200,Rachita Kapoor,INC,28,PhD
+1201,Ikbal Agrawal,AAP,52,Postgraduate
+1202,Eesha Vasa,BJP,45,Postgraduate
+1203,Ira Bassi,Independent,39,PhD
+1204,Ronith Setty,AAP,27,Postgraduate
+1205,Qarin Dara,Independent,39,Graduate
+1206,Chasmum Mahajan,AAP,64,PhD
+1207,Radha Guha,Regional Party,49,Graduate
+1208,Gunbir Goyal,INC,68,PhD
+1209,Onveer Chowdhury,BJP,64,Postgraduate
+1210,Tejas Nigam,Regional Party,39,PhD
+1211,Rachana Ramanathan,Regional Party,52,Postgraduate
+1212,Garima Chanda,INC,73,PhD
+1213,Gunbir Tak,INC,27,PhD
+1214,Lekha Mane,Independent,61,12th Pass
+1215,Nihal Gaba,AAP,64,Postgraduate
+1216,Harish Shah,AAP,60,Graduate
+1217,Nidra Gill,Regional Party,27,Graduate
+1218,Upasna Om,AAP,44,Postgraduate
+1219,Turvi Khatri,Independent,65,Postgraduate
+1220,Tanmayi Bath,Regional Party,38,PhD
+1221,Lopa Chad,AAP,73,12th Pass
+1222,Banjeet Barad,AAP,70,12th Pass
+1223,Anya Dubey,Independent,25,12th Pass
+1224,Nandini Palan,INC,55,12th Pass
+1225,Vivaan Sur,INC,28,Postgraduate
+1226,Ekanta Sunder,BJP,56,PhD
+1227,Siya Date,Regional Party,52,PhD
+1228,Vasudha Pant,BJP,33,PhD
+1229,Vedhika Chawla,INC,57,Graduate
+1230,Jairaj Naidu,Independent,47,12th Pass
+1231,Rudra Kata,Regional Party,29,PhD
+1232,Harita Dhingra,AAP,62,Postgraduate
+1233,Lakshmi Goswami,INC,61,PhD
+1234,Advaith Setty,AAP,59,12th Pass
+1235,David Krish,AAP,65,PhD
+1236,Dhruv Menon,INC,71,PhD
+1237,Zansi Koshy,Regional Party,35,Postgraduate
+1238,Kamala Sawhney,Regional Party,73,Graduate
+1239,Mekhala Sachdev,BJP,51,PhD
+1240,Ranveer Om,AAP,39,Graduate
+1241,Arya Padmanabhan,Regional Party,34,Graduate
+1242,Harish Boase,INC,55,PhD
+1243,Samesh Handa,AAP,29,Postgraduate
+1244,Gopal Khanna,Regional Party,35,Postgraduate
+1245,Udarsh Master,AAP,65,Postgraduate
+1246,Baljiwan Golla,BJP,42,Graduate
+1247,Ubika Basak,Regional Party,70,12th Pass
+1248,Bhavani Ghose,Independent,44,12th Pass
+1249,Saanvi Savant,Independent,45,PhD
+1250,Nisha Solanki,Independent,72,12th Pass
+1251,Wazir Kurian,INC,26,Graduate
+1252,Kabir Shroff,Independent,31,PhD
+1253,Nicholas Kalita,AAP,26,PhD
+1254,Hredhaan Goswami,INC,35,PhD
+1255,Ishita Bains,Independent,73,PhD
+1256,Nisha Dewan,BJP,33,12th Pass
+1257,Eesha Ram,BJP,40,Graduate
+1258,Harita Narayan,Independent,40,Graduate
+1259,Lekha Pai,AAP,72,Graduate
+1260,Nidra Bala,AAP,63,PhD
+1261,Manthan Chokshi,BJP,72,12th Pass
+1262,Reva Modi,Regional Party,44,PhD
+1263,Wridesh Sule,Independent,59,PhD
+1264,Balveer Khosla,Independent,65,Graduate
+1265,Charan Chander,Independent,36,Graduate
+1266,Balhaar Chakraborty,AAP,51,12th Pass
+1267,Isaac Ramakrishnan,AAP,60,12th Pass
+1268,Chavvi Som,Regional Party,51,Graduate
+1269,Rachana Deol,AAP,54,Graduate
+1270,Radhika Mutti,AAP,51,PhD
+1271,Fariq Lalla,Regional Party,71,Graduate
+1272,Hemani Warrior,AAP,59,PhD
+1273,Bhavani Mistry,Independent,73,PhD
+1274,Manthan Chowdhury,BJP,25,Postgraduate
+1275,Ridhi Parmar,AAP,48,PhD
+1276,Vaishnavi Edwin,BJP,49,Postgraduate
+1277,Anmol Ramanathan,Regional Party,52,PhD
+1278,Hritik Panchal,AAP,55,Graduate
+1279,Karan Rau,INC,62,Graduate
+1280,Amara Handa,BJP,63,Postgraduate
+1281,Jagdish Parsa,AAP,39,12th Pass
+1282,Ganga Goel,Independent,73,Graduate
+1283,Tarak Krishnamurthy,INC,39,Graduate
+1284,Aashi Wable,BJP,33,Postgraduate
+1285,Ganga Khurana,BJP,70,12th Pass
+1286,Yatan Mitter,BJP,31,Postgraduate
+1287,Jai Kalita,Independent,73,12th Pass
+1288,Jasmit Saran,Independent,39,Postgraduate
+1289,Chakradev Deol,INC,47,PhD
+1290,Shivansh Contractor,Regional Party,31,PhD
+1291,Gunbir Prashad,AAP,46,PhD
+1292,Damyanti Barman,Regional Party,29,Graduate
+1293,Gauri Singh,BJP,25,12th Pass
+1294,Caleb Rao,Regional Party,48,12th Pass
+1295,Meera Bhatnagar,BJP,25,Graduate
+1296,Zayyan Som,BJP,48,Postgraduate
+1297,Karan Verma,BJP,70,Graduate
+1298,Chaitaly Narang,Independent,33,Postgraduate
+1299,Dev Kaur,Regional Party,50,Graduate
+1300,Waida Kashyap,BJP,41,12th Pass
+1301,Tanish Dash,BJP,65,PhD
+1302,Azad Ahuja,Independent,36,12th Pass
+1303,Neelima Bail,AAP,71,PhD
+1304,Anya Sanghvi,Regional Party,44,Graduate
+1305,Vincent Tandon,Independent,53,PhD
+1306,Qasim Hayer,Regional Party,51,Postgraduate
+1307,Eesha Bala,AAP,27,Postgraduate
+1308,Urvashi Balasubramanian,Regional Party,49,Graduate
+1309,Ira Khurana,INC,34,12th Pass
+1310,Bhavini Sastry,Independent,32,PhD
+1311,Omaja Ramaswamy,AAP,74,12th Pass
+1312,Neel Murthy,INC,29,PhD
+1313,Nikita Sodhi,AAP,39,Graduate
+1314,Krishna Anne,BJP,28,Postgraduate
+1315,Dayita Sunder,AAP,52,PhD
+1316,Anya Kuruvilla,Independent,34,Postgraduate
+1317,Devika Sane,Independent,59,Postgraduate
+1318,Varenya Ganesan,INC,58,12th Pass
+1319,Yagnesh Kashyap,Independent,70,Postgraduate
+1320,Ishaan Thaker,Regional Party,56,Postgraduate
+1321,Ganga Subramaniam,AAP,28,PhD
+1322,Osha Sant,Independent,39,12th Pass
+1323,Aashi Boase,INC,56,12th Pass
+1324,Daksh Padmanabhan,BJP,71,PhD
+1325,Samaksh Garde,Independent,55,Graduate
+1326,Yutika Kade,Regional Party,26,Postgraduate
+1327,Laksh Sarkar,AAP,58,12th Pass
+1328,Vansha Chakraborty,Regional Party,32,PhD
+1329,Radhika Shere,AAP,32,Graduate
+1330,Jagrati Sodhi,Independent,66,Graduate
+1331,Manbir Kanda,Independent,64,12th Pass
+1332,Charles Barman,INC,68,PhD
+1333,Isaac Korpal,BJP,54,Graduate
+1334,Chaman Tella,AAP,56,12th Pass
+1335,Abdul Kata,Regional Party,59,Postgraduate
+1336,Oviya Shukla,Independent,48,PhD
+1337,Vidhi Din,INC,58,12th Pass
+1338,Aarush Virk,INC,25,Postgraduate
+1339,Garima Tella,Independent,38,PhD
+1340,Faris Raval,BJP,30,12th Pass
+1341,Jatin Sengupta,AAP,39,Postgraduate
+1342,Omya Hayre,Independent,59,Postgraduate
+1343,Amol Sarma,BJP,41,Postgraduate
+1344,Neelima Hora,Regional Party,62,Postgraduate
+1345,Urishilla Choudhary,BJP,30,Graduate
+1346,Dakshesh Merchant,INC,52,Postgraduate
+1347,Ethan Shenoy,INC,28,12th Pass
+1348,Fiyaz Maharaj,Independent,25,Postgraduate
+1349,Simon Bhargava,Regional Party,59,PhD
+1350,Kamya Swaminathan,AAP,61,12th Pass
+1351,Chavvi Badal,BJP,49,Postgraduate
+1352,Gauri Srivastava,INC,67,PhD
+1353,Kashvi Yohannan,Independent,57,Postgraduate
+1354,Chavvi Cheema,Regional Party,35,12th Pass
+1355,Lipika Grover,INC,60,12th Pass
+1356,Kavya Mody,INC,69,12th Pass
+1357,Pavani Trivedi,BJP,30,Postgraduate
+1358,Hitesh Nath,BJP,51,Graduate
+1359,Jeevika Ratti,AAP,40,12th Pass
+1360,Neelima Manne,INC,59,Postgraduate
+1361,Zinal Sane,BJP,45,Postgraduate
+1362,Jackson Narang,BJP,54,PhD
+1363,Balveer Tank,AAP,40,Postgraduate
+1364,Kabir Walla,BJP,31,12th Pass
+1365,Faras Sampath,AAP,70,Postgraduate
+1366,Sara Keer,Regional Party,47,Graduate
+1367,Mohammed Patla,INC,61,PhD
+1368,Odika Pathak,INC,30,PhD
+1369,Yochana Nagy,BJP,74,Graduate
+1370,Rishi Sen,Independent,38,Postgraduate
+1371,Jason Bhalla,AAP,26,Postgraduate
+1372,Shivani Sabharwal,AAP,71,PhD
+1373,Dhriti Dada,AAP,58,Postgraduate
+1374,Champak Bhatti,Independent,30,Postgraduate
+1375,Lakshit Sethi,Regional Party,72,Postgraduate
+1376,Udarsh Varkey,Regional Party,27,Postgraduate
+1377,Hemang Mangal,INC,65,PhD
+1378,Waida Jani,Independent,46,Graduate
+1379,Geetika Venkatesh,Regional Party,34,Graduate
+1380,Hemani Acharya,Independent,50,Graduate
+1381,Ayushman Shenoy,AAP,39,Graduate
+1382,Zaitra Raj,BJP,73,Graduate
+1383,Ikshita Jayaraman,BJP,64,Postgraduate
+1384,Amrita Raja,BJP,29,12th Pass
+1385,Anusha Swaminathan,Regional Party,50,PhD
+1386,Janya Amble,INC,65,Postgraduate
+1387,Panini Sundaram,INC,54,Graduate
+1388,Mahika Mallick,AAP,57,Graduate
+1389,Rachita Lanka,BJP,41,Postgraduate
+1390,Isaac Badami,BJP,50,Postgraduate
+1391,Vivaan Chopra,Independent,26,Graduate
+1392,Oni Pandey,INC,45,Graduate
+1393,Gaurika Madan,BJP,66,12th Pass
+1394,Gopal Narain,Regional Party,57,12th Pass
+1395,Gautami Bala,INC,27,PhD
+1396,Aadhya Zacharia,AAP,56,Postgraduate
+1397,Victor Chawla,INC,48,PhD
+1398,Mohammed Jha,Independent,71,Graduate
+1399,Jagat Mannan,AAP,63,12th Pass
+1400,Darika Saran,Regional Party,58,Postgraduate
+1401,Chasmum Maharaj,Regional Party,33,Graduate
+1402,Qasim Dutta,AAP,32,Postgraduate
+1403,Fitan Grewal,INC,44,12th Pass
+1404,Upadhriti Sibal,INC,74,Graduate
+1405,Zaid Narula,AAP,61,PhD
+1406,Nimrat Taneja,AAP,73,PhD
+1407,Bhavna Krishnamurthy,Independent,52,Postgraduate
+1408,Hemangini Ben,BJP,26,12th Pass
+1409,Pahal Ahluwalia,INC,39,Graduate
+1410,Yashica Prabhakar,Regional Party,59,12th Pass
+1411,Azaan Sane,Independent,34,PhD
+1412,Warda Ben,AAP,62,Graduate
+1413,Yochana Sama,Regional Party,26,PhD
+1414,Harish Sehgal,INC,58,Graduate
+1415,Aarna Rout,Regional Party,51,Postgraduate
+1416,Oeshi Gour,Independent,25,12th Pass
+1417,Vivaan Master,AAP,37,PhD
+1418,Jyoti Nigam,Independent,62,PhD
+1419,Qasim Saran,Regional Party,51,PhD
+1420,Radha Sood,BJP,35,12th Pass
+1421,Charan Ravi,BJP,70,Postgraduate
+1422,Wyatt Raval,BJP,72,12th Pass
+1423,Saumya Kata,Regional Party,48,PhD
+1424,Saumya Savant,AAP,32,Graduate
+1425,Chatresh Chakrabarti,BJP,29,PhD
+1426,Chanchal Minhas,BJP,67,PhD
+1427,Zaitra Gour,BJP,73,Postgraduate
+1428,Samaksh Ratta,AAP,54,Graduate
+1429,Kabir Menon,AAP,40,Graduate
+1430,Advik Khalsa,INC,28,PhD
+1431,Vrishti Nagi,AAP,43,Postgraduate
+1432,Victor Rai,Regional Party,72,12th Pass
+1433,Watika Bedi,AAP,27,12th Pass
+1434,Aradhana Gole,BJP,26,Graduate
+1435,Yashasvi Ratta,INC,41,PhD
+1436,Siddharth Bains,BJP,45,Graduate
+1437,Dev Zacharia,AAP,40,PhD
+1438,Ishita Kalita,Regional Party,38,12th Pass
+1439,Bhavika Thakkar,Regional Party,71,Postgraduate
+1440,Jairaj Bumb,AAP,67,Postgraduate
+1441,Yug Ray,Regional Party,59,PhD
+1442,Jackson Lala,Independent,42,Graduate
+1443,Vedant Chandran,INC,59,12th Pass
+1444,Omaja Barman,AAP,70,PhD
+1445,Lohit Karpe,Regional Party,42,Postgraduate
+1446,Chakradev Lal,INC,27,Postgraduate
+1447,Harinakshi Saini,BJP,28,Graduate
+1448,Girindra Kara,BJP,55,Graduate
+1449,Omya Verma,Independent,60,PhD
+1450,Tanmayi Sengupta,AAP,59,Graduate
+1451,Tamanna Rai,Independent,52,12th Pass
+1452,Peter Dutta,BJP,60,Postgraduate
+1453,Rudra Wable,INC,56,Postgraduate
+1454,Ojasvi Gill,INC,46,Graduate
+1455,Gaurang Sundaram,Independent,66,Postgraduate
+1456,Isha Mittal,INC,52,Postgraduate
+1457,Jason Radhakrishnan,Independent,25,PhD
+1458,Tamanna Prabhakar,Regional Party,53,PhD
+1459,Wahab Choudhary,AAP,41,12th Pass
+1460,Gauri Bahl,INC,55,Graduate
+1461,Omaja Kata,BJP,33,PhD
+1462,Anya Shanker,AAP,50,PhD
+1463,Baghyawati Sanghvi,BJP,39,Graduate
+1464,Meera Naidu,Regional Party,52,Postgraduate
+1465,Megha Bahri,AAP,74,PhD
+1466,Jeet Doctor,AAP,66,Graduate
+1467,Faraj Suri,INC,39,12th Pass
+1468,Charles Khatri,INC,65,12th Pass
+1469,Shaurya Om,AAP,71,PhD
+1470,Ucchal Batta,Independent,35,Graduate
+1471,Janani Kakar,Independent,50,12th Pass
+1472,Aarnav Yadav,Independent,33,PhD
+1473,Bhavna Choudhury,BJP,65,PhD
+1474,Samaksh Kannan,AAP,69,PhD
+1475,Krishna Narang,BJP,59,Graduate
+1476,Joshua Soni,BJP,68,PhD
+1477,Jagdish Balakrishnan,BJP,41,12th Pass
+1478,Zilmil Mangal,Regional Party,32,Graduate
+1479,Azaan Batta,BJP,41,Graduate
+1480,Raksha Bajwa,Independent,38,PhD
+1481,Nakul Yogi,BJP,70,Graduate
+1482,Neha Banik,BJP,70,PhD
+1483,Aadi Saha,INC,32,12th Pass
+1484,Indali Balan,AAP,40,Postgraduate
+1485,Ishanvi Ravel,AAP,58,Graduate
+1486,Harita Dave,AAP,36,Postgraduate
+1487,Simon Pau,Independent,33,Postgraduate
+1488,Ria Luthra,Independent,73,PhD
+1489,Naveen Sampath,BJP,34,Graduate
+1490,Anthony Kunda,INC,50,Graduate
+1491,Jatin Malhotra,BJP,50,12th Pass
+1492,Gautami Sekhon,Independent,63,12th Pass
+1493,Shaurya Narasimhan,Independent,72,Graduate
+1494,Bhanumati Trivedi,Independent,32,12th Pass
+1495,Udyati Chakraborty,Independent,42,PhD
+1496,Nikita Sengupta,AAP,36,12th Pass
+1497,Eiravati Raju,BJP,36,Postgraduate
+1498,Ryan Apte,Regional Party,53,12th Pass
+1499,Zayyan Bhasin,INC,41,PhD
+1500,Vinaya Morar,BJP,61,12th Pass
+1501,Yash Ben,INC,32,12th Pass
+1502,Upadhriti Mannan,Independent,27,Postgraduate
+1503,Tristan Khatri,AAP,60,Postgraduate
+1504,Suhani Reddy,INC,66,12th Pass
+1505,Bimala Baria,Independent,61,Graduate
+1506,Ranbir Thaker,INC,45,PhD
+1507,Ekaja Dugar,AAP,46,12th Pass
+1508,Orinder Rattan,BJP,67,Graduate
+1509,Balendra Mitra,Regional Party,68,PhD
+1510,Udant Kapur,BJP,38,Postgraduate
+1511,Ronith Bir,Independent,54,Graduate
+1512,Farhan Talwar,INC,25,Graduate
+1513,Atharv Hari,Regional Party,36,12th Pass
+1514,Aashi Ratti,INC,59,12th Pass
+1515,Varenya Kurian,INC,57,PhD
+1516,Gopal Thaker,INC,30,Postgraduate
+1517,Ganga Pal,BJP,51,PhD
+1518,Xavier Pandya,INC,34,Postgraduate
+1519,Hemangini Raja,Independent,27,PhD
+1520,Yashoda Balasubramanian,Independent,59,Graduate
+1521,Chanakya Mital,BJP,51,Graduate
+1522,Ojas Guha,BJP,64,PhD
+1523,Mekhala Kuruvilla,Independent,68,Graduate
+1524,Sudiksha Bava,BJP,50,12th Pass
+1525,Forum Sekhon,INC,42,12th Pass
+1526,Anusha Grover,Regional Party,34,Postgraduate
+1527,Abdul Chowdhury,BJP,64,12th Pass
+1528,Samar Chakraborty,Regional Party,72,PhD
+1529,Dipta Sen,Regional Party,54,Postgraduate
+1530,Oviya Oommen,INC,45,Graduate
+1531,Peter Sandal,AAP,62,Graduate
+1532,Mekhala Narain,AAP,56,Graduate
+1533,Hema Loyal,Regional Party,54,PhD
+1534,Elijah Sharma,Independent,58,Postgraduate
+1535,Aditya Prasad,BJP,56,Graduate
+1536,Pooja Amble,Independent,66,12th Pass
+1537,Wazir Sarraf,AAP,50,PhD
+1538,Vasudha Borde,Independent,26,PhD
+1539,Nidhi Ramesh,INC,34,Postgraduate
+1540,Vihaan Mukhopadhyay,INC,48,Graduate
+1541,Ekapad Mani,Independent,68,12th Pass
+1542,Bimala Sami,BJP,36,Postgraduate
+1543,Chakrika Gour,INC,72,Postgraduate
+1544,Anirudh Sarraf,Independent,30,12th Pass
+1545,Omaja Mahajan,AAP,27,PhD
+1546,Veda Prashad,Independent,31,Postgraduate
+1547,Damyanti Warrior,BJP,51,Postgraduate
+1548,Ojasvi Agarwal,AAP,31,PhD
+1549,Kritika Rajagopal,AAP,28,12th Pass
+1550,Faris Shroff,INC,51,PhD
+1551,Upma Nazareth,Independent,71,Postgraduate
+1552,Anusha Ganesan,Independent,26,12th Pass
+1553,Sanya Bala,Independent,46,PhD
+1554,Aarush Barad,INC,40,Postgraduate
+1555,Elijah Bhat,BJP,48,Graduate
+1556,Janya Kala,AAP,41,PhD
+1557,Barkha Natarajan,AAP,35,PhD
+1558,Hiral Bansal,INC,42,PhD
+1559,Madhavi Borra,Independent,29,Postgraduate
+1560,Yachana Vora,Regional Party,59,Postgraduate
+1561,Yachana Khalsa,INC,65,Postgraduate
+1562,Abhimanyu Gole,BJP,68,12th Pass
+1563,Daniel Morar,Regional Party,38,Postgraduate
+1564,Watika Bassi,Independent,40,Postgraduate
+1565,Rajeshri Nair,BJP,48,Postgraduate
+1566,Eiravati Loyal,BJP,39,PhD
+1567,Anmol Bhattacharyya,Independent,69,Postgraduate
+1568,Hredhaan Rajagopalan,Regional Party,38,12th Pass
+1569,Amaira Sha,Independent,44,12th Pass
+1570,Nachiket Bail,INC,52,PhD
+1571,Luke Bali,INC,39,Graduate
+1572,Forum Sankar,AAP,70,Postgraduate
+1573,Pavani Salvi,AAP,36,12th Pass
+1574,Samaksh Yogi,AAP,32,PhD
+1575,Aditya Bera,Independent,66,Graduate
+1576,Upasna Uppal,INC,59,Postgraduate
+1577,Parth Biswas,INC,44,12th Pass
+1578,Frado Dhar,INC,53,PhD
+1579,Gautami Kota,BJP,59,Graduate
+1580,Nihal Mann,Independent,36,Postgraduate
+1581,Mugdha Krishnamurthy,INC,41,Graduate
+1582,Ekani Merchant,AAP,49,12th Pass
+1583,Diya Sha,BJP,37,Postgraduate
+1584,Ekbal Divan,INC,44,12th Pass
+1585,Theodore Gaba,AAP,71,12th Pass
+1586,Waida Sant,AAP,25,PhD
+1587,Orinder Pandit,Independent,66,Postgraduate
+1588,Quincy Karpe,INC,63,Graduate
+1589,Neha Edwin,Regional Party,44,Graduate
+1590,Theodore Chandra,Independent,53,PhD
+1591,Lopa Boase,Independent,36,PhD
+1592,Pavani Prashad,BJP,74,Graduate
+1593,Damyanti Wagle,Regional Party,56,PhD
+1594,Hemani Handa,Regional Party,41,PhD
+1595,Samaksh Korpal,INC,40,12th Pass
+1596,Jack Parikh,AAP,62,Graduate
+1597,Samaksh Saini,INC,39,Postgraduate
+1598,Qasim Gola,AAP,47,PhD
+1599,Riya Mody,Independent,48,PhD
+1600,Radhika Arora,AAP,32,Graduate
+1601,Shivansh Gopal,AAP,26,PhD
+1602,Jagvi Narasimhan,BJP,74,Postgraduate
+1603,Dhriti Aggarwal,Regional Party,33,PhD
+1604,Faris Chowdhury,AAP,46,Graduate
+1605,Parth Bains,Independent,73,PhD
+1606,Oni Ben,AAP,50,Postgraduate
+1607,Hredhaan Bose,BJP,65,PhD
+1608,Yatin Gupta,BJP,61,Graduate
+1609,Janani Panchal,Independent,44,PhD
+1610,Veer Sundaram,Independent,50,Graduate
+1611,Nathan Hans,INC,36,12th Pass
+1612,Ati Konda,Regional Party,52,PhD
+1613,Anmol Sastry,AAP,72,Graduate
+1614,Yashawini Nadig,AAP,64,PhD
+1615,Harini Kaul,INC,54,12th Pass
+1616,Yatan Mutti,Regional Party,72,PhD
+1617,Aashi Chanda,BJP,47,PhD
+1618,Yasti Vig,AAP,59,12th Pass
+1619,Ronith Pathak,AAP,38,12th Pass
+1620,Zansi Majumdar,Regional Party,50,PhD
+1621,Gopal Ganesh,Independent,35,PhD
+1622,Vyanjana Madan,Regional Party,67,12th Pass
+1623,Joshua Kothari,Independent,72,PhD
+1624,Omaja Balakrishnan,Regional Party,42,12th Pass
+1625,Bhavya Uppal,AAP,45,PhD
+1626,Luke Prakash,BJP,70,PhD
+1627,Jasmit Ray,AAP,43,Graduate
+1628,Chatresh Gola,BJP,30,Graduate
+1629,Garima Kala,AAP,39,PhD
+1630,Leena Kothari,AAP,59,Graduate
+1631,Krish Bose,Regional Party,49,PhD
+1632,Charles Dalal,Regional Party,51,Graduate
+1633,Naveen Mistry,Independent,33,Graduate
+1634,Lekha Wason,AAP,46,Postgraduate
+1635,Neel Mahajan,AAP,29,Graduate
+1636,Vivaan Iyengar,BJP,55,Postgraduate
+1637,Lopa Bahl,Regional Party,40,PhD
+1638,Gayathri Mitra,Regional Party,60,Graduate
+1639,Chatura Baral,Regional Party,30,Graduate
+1640,Meghana Sani,Independent,33,PhD
+1641,Ishaan Andra,Regional Party,62,Postgraduate
+1642,Pranit Upadhyay,INC,64,Postgraduate
+1643,Bhavna Bawa,INC,66,PhD
+1644,Ethan Dube,Regional Party,41,12th Pass
+1645,Bhavini Garde,Regional Party,45,Graduate
+1646,Yashica Sagar,Regional Party,70,Postgraduate
+1647,Bakhshi Agate,INC,32,Postgraduate
+1648,Vedant Puri,Independent,47,Graduate
+1649,Liam Handa,Regional Party,35,Postgraduate
+1650,Manbir Sant,AAP,28,12th Pass
+1651,Gaurika Ranganathan,BJP,64,Postgraduate
+1652,Arin Roy,Regional Party,29,Graduate
+1653,Yashoda Sagar,INC,42,Postgraduate
+1654,Harish Saxena,BJP,44,Graduate
+1655,Anita Panchal,Independent,40,Graduate
+1656,Ishanvi Mody,Regional Party,56,12th Pass
+1657,Ekbal Bera,INC,60,Postgraduate
+1658,Kevin Lad,Independent,39,Postgraduate
+1659,Baljiwan Divan,AAP,53,Graduate
+1660,Omaja Iyengar,BJP,30,PhD
+1661,Victor Kurian,BJP,64,PhD
+1662,Manthan Nagi,Independent,50,Graduate
+1663,Devika Sahni,BJP,38,Graduate
+1664,Bimala Nagarajan,Regional Party,30,PhD
+1665,Xiti Pall,Independent,27,Graduate
+1666,Sai Chatterjee,BJP,35,Postgraduate
+1667,Dhruv Lad,BJP,59,Graduate
+1668,Indrajit Dey,AAP,39,Graduate
+1669,Thomas Dalal,BJP,37,Postgraduate
+1670,Prisha Mand,INC,25,12th Pass
+1671,Chaitaly Varma,Independent,42,Graduate
+1672,Bahadurjit Bora,BJP,26,Postgraduate
+1673,Udyati Bora,AAP,74,Postgraduate
+1674,Yashawini Sarin,AAP,69,PhD
+1675,Gautami Bains,AAP,42,12th Pass
+1676,Bhavika Yogi,AAP,26,Graduate
+1677,Chakrika Vala,INC,61,Postgraduate
+1678,Madhav Nagar,AAP,74,Postgraduate
+1679,Adya Bhalla,BJP,72,Graduate
+1680,Niharika Thakur,AAP,55,Graduate
+1681,Varsha Upadhyay,Regional Party,70,Graduate
+1682,Wakeeta Khosla,Regional Party,65,PhD
+1683,Jeevika Bhavsar,INC,38,Graduate
+1684,Chakradev Sarkar,Regional Party,35,12th Pass
+1685,Alexander Kumar,INC,35,Graduate
+1686,Logan Minhas,Independent,37,12th Pass
+1687,Baghyawati Seshadri,INC,68,Postgraduate
+1688,Nitara Thaman,INC,36,PhD
+1689,Zaitra Mani,Independent,39,12th Pass
+1690,Thomas Kapadia,Regional Party,68,Graduate
+1691,Ryan Mander,BJP,38,Postgraduate
+1692,Yashoda Rai,BJP,43,Postgraduate
+1693,Logan Dyal,INC,27,12th Pass
+1694,Onveer Shetty,BJP,28,Graduate
+1695,Qarin Patla,AAP,63,12th Pass
+1696,Vansha Thaker,Regional Party,31,12th Pass
+1697,Anmol Oza,AAP,43,Postgraduate
+1698,Agastya Pathak,INC,54,Graduate
+1699,Anvi Deshpande,BJP,67,PhD
+1700,Warhi Ganesan,AAP,38,Graduate
+1701,Qadim Kanda,AAP,74,Postgraduate
+1702,Maanas Shankar,Regional Party,33,Postgraduate
+1703,Garima Mani,Regional Party,35,PhD
+1704,Warhi Babu,AAP,71,12th Pass
+1705,Aadi Upadhyay,BJP,29,Graduate
+1706,Ati Malhotra,INC,52,Graduate
+1707,Shivansh Kota,Independent,37,12th Pass
+1708,Ishita Dalal,Regional Party,32,PhD
+1709,Rishi Kala,AAP,44,PhD
+1710,Bahadurjit Shah,INC,69,PhD
+1711,Harish Dugar,BJP,29,Graduate
+1712,Maanav Ganesan,AAP,42,PhD
+1713,Abhiram Naik,BJP,56,Graduate
+1714,Shivani Chaudhry,INC,60,12th Pass
+1715,Quincy Bhagat,Independent,49,PhD
+1716,Radhika Choudhury,Regional Party,44,PhD
+1717,Bachittar Ahluwalia,BJP,37,Graduate
+1718,Prisha Mitra,Independent,69,Graduate
+1719,Om Datta,Independent,49,12th Pass
+1720,Shravya Desai,AAP,54,12th Pass
+1721,Gaurang Iyengar,BJP,38,Postgraduate
+1722,Hritik Wali,INC,27,PhD
+1723,Warda Naidu,INC,37,Postgraduate
+1724,Chakradhar Sarma,Regional Party,44,PhD
+1725,Charvi Hayre,Independent,69,Graduate
+1726,Caleb Dani,AAP,67,Graduate
+1727,Hemal Sehgal,INC,61,Postgraduate
+1728,Nidhi Hans,BJP,56,Postgraduate
+1729,Ubika Hayre,Independent,57,12th Pass
+1730,Zayyan Bhatt,Independent,53,Postgraduate
+1731,Siya Kara,Independent,52,PhD
+1732,Mohammed Bains,INC,31,PhD
+1733,Yashodhara Krish,Regional Party,40,Graduate
+1734,Timothy Hegde,INC,40,12th Pass
+1735,Mohini Khosla,Independent,37,Graduate
+1736,Baljiwan Mann,Independent,55,PhD
+1737,Eta Gala,AAP,51,Postgraduate
+1738,Zayan Kannan,INC,57,PhD
+1739,Gabriel Halder,AAP,47,Postgraduate
+1740,Chaitaly Mane,AAP,49,Postgraduate
+1741,Charles Garde,INC,45,Postgraduate
+1742,Krishna Sahota,INC,40,Graduate
+1743,Vedhika Varghese,BJP,27,Postgraduate
+1744,Quincy Chandra,Independent,48,Postgraduate
+1745,Bishakha Contractor,AAP,60,Graduate
+1746,Madhav Kibe,INC,41,PhD
+1747,Sathvik Balakrishnan,Independent,47,PhD
+1748,Dev Nayak,Regional Party,54,Graduate
+1749,Kalpit Vaidya,AAP,34,Postgraduate
+1750,Peter Nath,BJP,35,PhD
+1751,Jackson Boase,BJP,52,Graduate
+1752,Chaitaly Kuruvilla,AAP,65,Postgraduate
+1753,Reyansh Wason,INC,41,PhD
+1754,Eshana Mangat,BJP,50,Graduate
+1755,Advik Sridhar,Independent,40,12th Pass
+1756,Jack Nagi,Regional Party,56,Graduate
+1757,Ranbir Khanna,Independent,38,12th Pass
+1758,Eshana Misra,INC,49,Graduate
+1759,Triya Dar,Regional Party,39,Graduate
+1760,Hemangini Sarin,Independent,67,12th Pass
+1761,Netra Saxena,BJP,58,12th Pass
+1762,Yashodhara Sura,BJP,54,Postgraduate
+1763,Harini Atwal,Regional Party,59,PhD
+1764,Bimala Dash,BJP,44,Graduate
+1765,Warhi Dubey,Independent,41,Postgraduate
+1766,Nidra Saxena,AAP,51,Graduate
+1767,Ishita Malhotra,INC,70,Graduate
+1768,Gautami Aggarwal,Independent,54,Graduate
+1769,Peter Rau,Regional Party,40,PhD
+1770,Tara Mangat,Independent,70,12th Pass
+1771,Warda Batta,AAP,33,12th Pass
+1772,Ekalinga Gala,Regional Party,63,Postgraduate
+1773,Yadavi Jhaveri,BJP,49,PhD
+1774,Harish Bhandari,INC,71,Postgraduate
+1775,Darpan Vaidya,Independent,70,12th Pass
+1776,Nimrat Soman,AAP,70,12th Pass
+1777,Hardik Basu,AAP,67,12th Pass
+1778,Suhani Grover,Regional Party,33,Graduate
+1779,Sai Chander,Regional Party,58,Graduate
+1780,Vansha Boase,INC,46,PhD
+1781,Harshil Anne,Independent,26,PhD
+1782,Shivani Baria,Regional Party,44,PhD
+1783,Kavya Srinivasan,Regional Party,62,Graduate
+1784,Ethan Vyas,INC,62,PhD
+1785,Girik Bahl,INC,48,Postgraduate
+1786,Turvi Shetty,AAP,40,12th Pass
+1787,Aahana Parikh,Independent,48,12th Pass
+1788,Nathan Dutt,BJP,54,12th Pass
+1789,Harini Bandi,Regional Party,67,Postgraduate
+1790,Yauvani Sibal,Independent,25,Postgraduate
+1791,Yashawini Lad,Regional Party,59,Postgraduate
+1792,Oviya Pandey,BJP,39,Postgraduate
+1793,Saksham Tiwari,AAP,25,Graduate
+1794,Zansi Badal,Regional Party,64,Graduate
+1795,Waida Borra,Regional Party,42,12th Pass
+1796,Neel Mammen,Regional Party,27,12th Pass
+1797,Lipika Narayanan,AAP,58,12th Pass
+1798,Chandresh Sekhon,Regional Party,56,12th Pass
+1799,Rehaan Kant,BJP,43,Graduate
+1800,Anmol Zacharia,INC,74,Graduate
+1801,Aadi Dhar,BJP,34,Postgraduate
+1802,Bhavini Chaudhry,Independent,42,Postgraduate
+1803,Siddharth Lanka,Independent,52,PhD
+1804,Jeremiah Tiwari,BJP,34,Postgraduate
+1805,Janya Nagi,Regional Party,49,PhD
+1806,Siya Majumdar,BJP,49,Graduate
+1807,Pranav Mannan,BJP,32,PhD
+1808,Vyanjana Narang,INC,60,PhD
+1809,Zinal Kannan,BJP,73,Postgraduate
+1810,Kala Dhar,INC,51,PhD
+1811,Jatin Manda,AAP,69,12th Pass
+1812,Osha Tank,Regional Party,35,PhD
+1813,Aahana Parekh,BJP,66,Postgraduate
+1814,Jasmit Bakshi,Regional Party,61,Graduate
+1815,Nachiket Mody,BJP,36,12th Pass
+1816,Qushi Dugar,AAP,43,PhD
+1817,Zehaan Toor,Independent,38,Postgraduate
+1818,Jagvi Bhalla,INC,38,Postgraduate
+1819,Xalak Kaul,AAP,69,12th Pass
+1820,Owen Sood,Independent,26,Graduate
+1821,Dipta Dave,Regional Party,58,PhD
+1822,Udarsh Dhaliwal,AAP,33,Graduate
+1823,Kashvi Sem,Independent,51,Graduate
+1824,Jagvi Dass,Regional Party,25,PhD
+1825,Aishani Kashyap,Regional Party,68,12th Pass
+1826,Bakhshi Balakrishnan,AAP,51,Postgraduate
+1827,Zansi Hegde,Regional Party,56,12th Pass
+1828,Avni Mittal,BJP,34,PhD
+1829,Aayush Dada,Regional Party,69,Postgraduate
+1830,Suhani Bali,Independent,66,PhD
+1831,Yauvani Pradhan,INC,47,Graduate
+1832,Chasmum Sawhney,AAP,44,Postgraduate
+1833,Laban Nagar,INC,60,Graduate
+1834,Vaishnavi Nagarajan,Independent,34,Graduate
+1835,Anmol Gara,BJP,50,PhD
+1836,Hema Dutta,AAP,27,Postgraduate
+1837,Eiravati Kade,Independent,63,Postgraduate
+1838,Vedant Dass,Regional Party,45,12th Pass
+1839,Vincent Kakar,INC,27,PhD
+1840,Ayushman Bains,Regional Party,73,Postgraduate
+1841,Saanvi Ray,INC,66,PhD
+1842,Teerth Kade,BJP,69,12th Pass
+1843,Ayushman Dara,Independent,70,Graduate
+1844,Janaki Deep,BJP,58,Graduate
+1845,Anjali Ghosh,AAP,53,12th Pass
+1846,Neel Dutt,AAP,69,PhD
+1847,Jagvi Sibal,Independent,38,Postgraduate
+1848,Maanav Mander,BJP,71,PhD
+1849,Wazir Tiwari,Regional Party,71,Graduate
+1850,Xiti Shah,Regional Party,46,Postgraduate
+1851,Krishna Saini,BJP,39,PhD
+1852,Ekavir Thakur,Independent,29,12th Pass
+1853,Anjali Ganesan,INC,72,PhD
+1854,Falguni Dewan,Regional Party,64,Graduate
+1855,Peter Ramesh,BJP,39,Postgraduate
+1856,Utkarsh Dyal,Regional Party,74,Postgraduate
+1857,Yashawini Kala,Independent,31,Graduate
+1858,Chandresh Narasimhan,Independent,67,PhD
+1859,Anika Sha,INC,47,Postgraduate
+1860,Diya Chander,AAP,29,Graduate
+1861,Aarav Maharaj,AAP,43,Postgraduate
+1862,Amrita Halder,Independent,54,PhD
+1863,Ayush Pandit,Regional Party,34,12th Pass
+1864,Garima Swamy,Regional Party,54,Postgraduate
+1865,Banjeet Kuruvilla,AAP,48,Graduate
+1866,Jonathan Ravel,AAP,31,PhD
+1867,Dakshesh Varma,AAP,64,Graduate
+1868,Anita Patla,Independent,64,Postgraduate
+1869,Vamakshi Sodhi,Regional Party,66,PhD
+1870,Vedika Vig,BJP,67,PhD
+1871,Dakshesh Ganesh,INC,44,PhD
+1872,Bhavna Bali,BJP,60,Postgraduate
+1873,Sai Kulkarni,Regional Party,60,Postgraduate
+1874,Rishi Brar,Regional Party,49,Postgraduate
+1875,Rachit More,INC,59,PhD
+1876,Nathaniel Singh,INC,60,12th Pass
+1877,Omya Lanka,INC,50,Postgraduate
+1878,Kamala Kala,Regional Party,39,PhD
+1879,Ekiya Dar,BJP,30,12th Pass
+1880,Omisha Banerjee,INC,53,PhD
+1881,Chavvi Bhatt,Regional Party,71,12th Pass
+1882,Advay Jain,BJP,41,12th Pass
+1883,Nidhi Saxena,Independent,54,Postgraduate
+1884,Patrick Gade,BJP,60,12th Pass
+1885,Mitesh Joshi,INC,65,PhD
+1886,Aarini Sankar,Independent,42,Postgraduate
+1887,Bina Jhaveri,BJP,67,Graduate
+1888,Megha Chaudhary,Regional Party,52,12th Pass
+1889,Lopa Sankaran,Independent,33,Postgraduate
+1890,Isaac Shanker,Independent,53,PhD
+1891,Nilima Chahal,Regional Party,67,Postgraduate
+1892,Jagvi Mody,AAP,28,PhD
+1893,Veer Khatri,BJP,28,PhD
+1894,Hemang Thaker,Independent,48,PhD
+1895,Zaid Buch,AAP,61,Graduate
+1896,Rachit Sur,Independent,25,Postgraduate
+1897,Dalaja Sani,INC,66,Postgraduate
+1898,Jacob Sen,AAP,60,Postgraduate
+1899,Garima Shere,BJP,30,Postgraduate
+1900,Tamanna Kumar,AAP,67,Graduate
+1901,Arin Char,Independent,69,Graduate
+1902,Harsh Bhat,Regional Party,39,Graduate
+1903,Arin Pant,Independent,35,Graduate
+1904,Chatresh Sekhon,INC,63,Postgraduate
+1905,Vamakshi Chadha,Regional Party,58,12th Pass
+1906,Leela Goda,AAP,61,PhD
+1907,Abha Kota,INC,69,Postgraduate
+1908,Omkaar Bora,Independent,25,12th Pass
+1909,Orinder Bhardwaj,Regional Party,68,PhD
+1910,Dhriti Mann,Independent,50,Postgraduate
+1911,Warjas More,AAP,47,12th Pass
+1912,Anthony Dewan,INC,48,Postgraduate
+1913,Luke Narayan,Independent,47,Postgraduate
+1914,Rayaan Chahal,Independent,25,12th Pass
+1915,Reyansh Merchant,Regional Party,39,Graduate
+1916,Widisha Chokshi,AAP,45,Graduate
+1917,Anita Suri,INC,41,PhD
+1918,Ayushman Narasimhan,AAP,64,Postgraduate
+1919,Bakhshi Muni,Regional Party,26,12th Pass
+1920,Raghav Soman,BJP,25,Postgraduate
+1921,Rachana Varty,INC,49,Postgraduate
+1922,Ranbir Chad,AAP,69,Graduate
+1923,Adweta Bahri,INC,32,12th Pass
+1924,Aarush Ramakrishnan,INC,49,Graduate
+1925,Anamika Prasad,Independent,70,PhD
+1926,Veer Varughese,BJP,69,Postgraduate
+1927,Rajeshri Choudhury,INC,51,12th Pass
+1928,Baghyawati Bhatti,AAP,52,12th Pass
+1929,Dayamai Kota,BJP,63,PhD
+1930,Onkar Deshpande,Independent,33,Graduate
+1931,Nathaniel Patla,BJP,45,Graduate
+1932,Darsh Dani,BJP,55,Graduate
+1933,Samaksh Walia,Regional Party,49,PhD
+1934,Karan Sankar,INC,69,Postgraduate
+1935,Ekaja Mitter,INC,68,Postgraduate
+1936,Nikita Sundaram,Independent,55,Graduate
+1937,Dev Vohra,Regional Party,25,12th Pass
+1938,Garima Chhabra,Regional Party,68,Graduate
+1939,Yuvraj Mann,BJP,72,12th Pass
+1940,Bhavika Chaudhuri,AAP,37,PhD
+1941,Dayamai Sastry,Regional Party,69,Postgraduate
+1942,Amruta Manda,AAP,69,PhD
+1943,Laksh Basak,BJP,47,12th Pass
+1944,Saumya Lata,BJP,44,Postgraduate
+1945,Kamya Doshi,INC,55,PhD
+1946,Vihaan Cherian,INC,49,12th Pass
+1947,Rachit Dutt,Regional Party,35,12th Pass
+1948,Laksh Sekhon,Independent,41,Graduate
+1949,Netra Seshadri,INC,65,PhD
+1950,Eiravati Bahl,BJP,53,PhD
+1951,Laban Murthy,BJP,49,Graduate
+1952,Radhika Dua,BJP,68,PhD
+1953,Brijesh Nair,INC,63,12th Pass
+1954,Kai Chokshi,Independent,58,PhD
+1955,Manbir Sarna,AAP,38,12th Pass
+1956,Hemang Baral,BJP,59,Postgraduate
+1957,Imaran Banerjee,AAP,64,Postgraduate
+1958,Dakshesh Kari,INC,53,Graduate
+1959,Zehaan Sharma,BJP,66,Graduate
+1960,Zehaan Bhatia,Regional Party,26,PhD
+1961,Chandani Hari,INC,31,Postgraduate
+1962,Bhavya Jayaraman,AAP,53,12th Pass
+1963,Gaurang Mangal,BJP,57,Graduate
+1964,Omkaar Patla,BJP,25,PhD
+1965,Wazir Bahl,INC,26,12th Pass
+1966,Geetika Anne,BJP,40,PhD
+1967,Jagdish Gaba,AAP,31,Graduate
+1968,Advik Bal,Regional Party,36,12th Pass
+1969,Samaksh Misra,AAP,31,PhD
+1970,Rohan Hans,BJP,70,12th Pass
+1971,Nisha Handa,BJP,69,Graduate
+1972,Patrick Chacko,Regional Party,56,12th Pass
+1973,Hitesh Pradhan,Regional Party,70,Graduate
+1974,Bahadurjit Natt,INC,68,12th Pass
+1975,Onkar Bhatnagar,INC,46,12th Pass
+1976,Bhanumati Lata,Regional Party,60,Graduate
+1977,Krisha Ramesh,AAP,27,12th Pass
+1978,Krishna Saha,BJP,65,Graduate
+1979,Aradhana Parsa,AAP,61,PhD
+1980,Jagat Nagarajan,Independent,63,Postgraduate
+1981,Bishakha Nayak,BJP,59,Graduate
+1982,Widisha Srinivas,Regional Party,44,Graduate
+1983,Saksham Mittal,AAP,34,PhD
+1984,Devansh Saraf,Regional Party,73,Postgraduate
+1985,Saksham Konda,Regional Party,60,Graduate
+1986,Daksh Sridhar,Regional Party,63,12th Pass
+1987,Sara Verma,Independent,46,Postgraduate
+1988,Yashawini Iyengar,Independent,52,PhD
+1989,Netra Panchal,Regional Party,54,Graduate
+1990,Charles Mall,BJP,60,PhD
+1991,Urmi Chahal,AAP,37,12th Pass
+1992,Ishaan Dash,Independent,47,Graduate
+1993,Baghyawati Pall,Independent,72,12th Pass
+1994,Jeevika Devan,Independent,74,PhD
+1995,Leela Malhotra,AAP,44,Postgraduate
+1996,Alka Atwal,INC,35,Graduate
+1997,Timothy Sankar,Regional Party,41,Graduate
+1998,Neha Magar,AAP,52,Graduate
+1999,Osha Khalsa,BJP,59,12th Pass
+2000,Oeshi Narayanan,INC,64,Graduate
+2001,Netra Goyal,AAP,61,Postgraduate
+2002,Champak Raval,Independent,41,12th Pass
+2003,Elijah D’Alia,Regional Party,62,Postgraduate
+2004,Widisha Lad,Regional Party,47,12th Pass
+2005,Ekanta Salvi,Regional Party,51,12th Pass
+2006,Alka Rana,AAP,31,Graduate
+2007,Chanakya Bajwa,BJP,55,PhD
+2008,Lajita Kala,Independent,72,PhD
+2009,Imaran Jaggi,AAP,67,Graduate
+2010,Siya Vig,Regional Party,60,12th Pass
+2011,Samaksh Boase,INC,53,PhD
+2012,Ekbal Khurana,Independent,65,Postgraduate
+2013,Yachana Kara,INC,58,Postgraduate
+2014,Radha Prakash,Independent,32,Postgraduate
+2015,Anya Ben,Independent,55,Graduate
+2016,Tanay Hegde,Regional Party,67,12th Pass
+2017,Lavanya Memon,Independent,38,12th Pass
+2018,Charan Bedi,INC,28,Postgraduate
+2019,Aarini Agrawal,Independent,43,12th Pass
+2020,Yashasvi Mallick,Regional Party,71,Postgraduate
+2021,Anay Bhat,AAP,51,PhD
+2022,Max Comar,Regional Party,58,Graduate
+2023,Sathvik Bahl,Regional Party,51,Postgraduate
+2024,Libni Keer,Regional Party,73,PhD
+2025,Tarak Tara,AAP,56,Graduate
+2026,Saumya Datta,Independent,50,Postgraduate
+2027,Yatin Borah,Regional Party,50,Graduate
+2028,Shivansh Khosla,Independent,45,PhD
+2029,Vaishnavi Narain,INC,68,PhD
+2030,Vedhika Date,BJP,48,PhD
+2031,Jacob Chana,AAP,34,12th Pass
+2032,Inaya Krish,BJP,34,Postgraduate
+2033,Bimala Sanghvi,Independent,35,Graduate
+2034,Diya Borra,INC,46,Graduate
+2035,Vrishti Chawla,INC,59,PhD
+2036,Timothy Seshadri,Independent,59,Postgraduate
+2037,Liam Choudhry,Independent,53,12th Pass
+2038,Janya Chawla,AAP,67,12th Pass
+2039,Xavier Brar,Independent,64,PhD
+2040,Benjamin Kurian,Regional Party,33,Graduate
+2041,Gautam Setty,AAP,65,12th Pass
+2042,Harsh Dora,Independent,45,Postgraduate
+2043,Darpan Rajan,AAP,53,Graduate
+2044,Nilima Seth,BJP,55,Postgraduate
+2045,Udant Dutt,Regional Party,55,Graduate
+2046,Qushi Varty,Regional Party,34,PhD
+2047,Frado Korpal,AAP,43,Graduate
+2048,Sanya Rajagopal,Regional Party,67,Graduate
+2049,George Varughese,INC,59,Postgraduate
+2050,Pushti Borah,AAP,58,12th Pass
+2051,Dhriti Bhat,BJP,26,Graduate
+2052,Ranbir Sant,Regional Party,68,12th Pass
+2053,Mekhala Rastogi,Independent,63,Postgraduate
+2054,Mitesh Nagy,Regional Party,44,Postgraduate
+2055,Devansh Rastogi,AAP,68,12th Pass
+2056,Chandresh Dass,BJP,66,Graduate
+2057,Omya Pau,INC,72,PhD
+2058,Omkaar Doctor,Independent,71,12th Pass
+2059,Gautam Comar,Independent,27,Graduate
+2060,Aachal Sachdev,Regional Party,41,12th Pass
+2061,Ridhi Borra,Regional Party,63,Graduate
+2062,Alexander Shenoy,INC,29,Postgraduate
+2063,Sanya Bhakta,INC,32,12th Pass
+2064,Radha Gade,INC,57,Postgraduate
+2065,Rishi Murthy,BJP,61,Postgraduate
+2066,Daksh Bedi,AAP,70,Graduate
+2067,Eshana Sinha,INC,33,PhD
+2068,Diya Narang,Independent,48,Graduate
+2069,Jeet D’Alia,AAP,33,Graduate
+2070,Ekansh Puri,Regional Party,65,PhD
+2071,Chaaya Bhalla,INC,73,Graduate
+2072,Dayamai Dhaliwal,AAP,35,PhD
+2073,Pranit Panchal,Regional Party,52,PhD
+2074,Hamsini Peri,BJP,29,Postgraduate
+2075,Lavanya Balay,BJP,26,Graduate
+2076,Vidhi Raja,AAP,59,PhD
+2077,Manya Dave,Independent,64,Graduate
+2078,Utkarsh Deol,Independent,49,Graduate
+2079,Nilima Bhakta,BJP,52,Graduate
+2080,Abha Raman,INC,47,Graduate
+2081,Ryan Rastogi,Independent,41,Postgraduate
+2082,Vaishnavi Dass,Independent,53,PhD
+2083,Advaith Ray,AAP,38,Postgraduate
+2084,Arjun Sarkar,Independent,36,12th Pass
+2085,Barkha Gour,BJP,65,Graduate
+2086,Tara Rege,AAP,69,Postgraduate
+2087,Henry Kibe,Independent,33,PhD
+2088,Jhalak Palla,Independent,26,PhD
+2089,Garima Kala,Independent,67,12th Pass
+2090,Lila Shroff,BJP,32,12th Pass
+2091,Mugdha Lanka,Regional Party,60,Postgraduate
+2092,Mahika Dar,BJP,35,Postgraduate
+2093,Anamika Amble,Independent,36,12th Pass
+2094,Eesha Kara,AAP,30,PhD
+2095,Abhimanyu Patla,INC,57,12th Pass
+2096,Patrick Barad,BJP,38,12th Pass
+2097,Advaith Ramaswamy,INC,30,Postgraduate
+2098,Anamika Vala,BJP,60,12th Pass
+2099,Ryan Ganguly,AAP,39,Postgraduate
+2100,Girindra Sura,BJP,58,Postgraduate
+2101,Upadhriti Basu,Independent,68,PhD
+2102,Avi Palla,INC,56,12th Pass
+2103,Chatresh Mani,INC,67,12th Pass
+2104,Ayaan Borah,BJP,39,Postgraduate
+2105,Imaran Anne,BJP,42,Postgraduate
+2106,Ojas Rege,Regional Party,53,Graduate
+2107,Balvan Chakrabarti,BJP,36,Graduate
+2108,Gaurangi Rao,INC,41,Postgraduate
+2109,Vidhi Nayar,AAP,66,Postgraduate
+2110,Samarth Bail,INC,70,Graduate
+2111,Ayaan Wagle,INC,56,12th Pass
+2112,Raksha Tata,INC,72,Postgraduate
+2113,Urvi Aggarwal,INC,72,PhD
+2114,Mekhala Sant,INC,30,Postgraduate
+2115,Yauvani Bahri,INC,63,PhD
+2116,Aadhya Shetty,INC,58,12th Pass
+2117,Jason Bhatti,BJP,56,Postgraduate
+2118,Ekta Gaba,INC,50,Postgraduate
+2119,Charan Kapoor,INC,35,Graduate
+2120,Vedant Gole,BJP,37,12th Pass
+2121,Upma Subramanian,Independent,28,12th Pass
+2122,Oviya Soni,BJP,48,Postgraduate
+2123,Lekha Deshpande,AAP,49,Postgraduate
+2124,Shivansh Thakkar,BJP,32,12th Pass
+2125,Warinder Minhas,Independent,49,Postgraduate
+2126,Pranit Kashyap,INC,36,PhD
+2127,Falak Pall,Independent,26,Graduate
+2128,Qarin Minhas,INC,68,Graduate
+2129,Ira Loke,BJP,28,Postgraduate
+2130,Joshua Ramakrishnan,BJP,29,Postgraduate
+2131,Alexander Sawhney,Regional Party,35,Postgraduate
+2132,Jatin Verma,INC,62,PhD
+2133,Jacob Deshmukh,AAP,33,PhD
+2134,Anirudh Minhas,AAP,49,12th Pass
+2135,Laban Roy,AAP,36,PhD
+2136,Chandran Verma,INC,54,12th Pass
+2137,Vamakshi Chhabra,INC,34,Postgraduate
+2138,Daniel Khurana,BJP,26,PhD
+2139,Faris Tella,Independent,47,PhD
+2140,Warda Bhatti,AAP,40,Graduate
+2141,Baghyawati Pandey,BJP,66,PhD
+2142,Aditya Chad,BJP,40,PhD
+2143,Ekbal Basak,Independent,73,12th Pass
+2144,Zashil Sanghvi,Regional Party,44,Postgraduate
+2145,Siya Rajagopal,AAP,72,Graduate
+2146,Balhaar Modi,INC,68,Graduate
+2147,Fiyaz Dayal,Regional Party,53,Graduate
+2148,Umang Bala,Independent,58,12th Pass
+2149,Aditya Sanghvi,AAP,57,12th Pass
+2150,Tristan Randhawa,Independent,53,PhD
+2151,Ekiya Borra,Independent,33,PhD
+2152,Ria Ravi,INC,37,Graduate
+2153,Dipta Lanka,Regional Party,63,Graduate
+2154,Laksh Rajagopalan,AAP,60,Postgraduate
+2155,Aadhya Bhavsar,AAP,39,PhD
+2156,Upma Narayan,INC,40,Graduate
+2157,Ojasvi Rai,INC,70,PhD
+2158,Kabir Srivastava,Independent,47,Graduate
+2159,Divya Sane,BJP,53,Postgraduate
+2160,Azaan Bhavsar,BJP,33,Graduate
+2161,Deepa Jaggi,Independent,40,Postgraduate
+2162,Chatresh Dash,Independent,65,12th Pass
+2163,Leena Thakkar,INC,73,PhD
+2164,Jatin Kara,Regional Party,58,PhD
+2165,Gaurangi Vala,Regional Party,67,12th Pass
+2166,Nitara Gara,Independent,50,PhD
+2167,Umang Vasa,AAP,31,Postgraduate
+2168,Dominic Bassi,INC,56,12th Pass
+2169,Tarak Mall,Regional Party,45,Graduate
+2170,Lila Varty,AAP,61,Postgraduate
+2171,Pooja Kade,AAP,70,12th Pass
+2172,Ekaraj Kota,Independent,39,12th Pass
+2173,Aryan Bhatnagar,AAP,67,Graduate
+2174,Veer Sule,Regional Party,33,Postgraduate
+2175,Vihaan Chand,BJP,34,Postgraduate
+2176,Kevin Morar,BJP,63,Graduate
+2177,Gaurang Sheth,Regional Party,39,Postgraduate
+2178,Meghana Ravi,Independent,49,PhD
+2179,Shivansh Nanda,BJP,57,Postgraduate
+2180,Leela Ganesan,BJP,59,12th Pass
+2181,Ayaan Gulati,INC,32,Graduate
+2182,Faris Palla,BJP,49,Graduate
+2183,Sanaya Gole,BJP,36,Graduate
+2184,Lucky Mitter,BJP,42,12th Pass
+2185,Radha Singhal,INC,59,Postgraduate
+2186,Patrick Comar,BJP,26,Postgraduate
+2187,Orinder Sant,BJP,50,Postgraduate
+2188,Xalak Bassi,Independent,47,12th Pass
+2189,Vrishti Maharaj,AAP,71,12th Pass
+2190,Manbir Sanghvi,BJP,47,Graduate
+2191,Riya Gill,BJP,27,PhD
+2192,Anay Master,Independent,72,12th Pass
+2193,Advik Roy,AAP,71,Postgraduate
+2194,Akshay Raval,AAP,28,Postgraduate
+2195,Chaitanya Sule,BJP,53,PhD
+2196,Rachana Comar,Independent,60,12th Pass
+2197,Gabriel Issac,INC,26,Graduate
+2198,Bhavika Yadav,BJP,32,Graduate
+2199,Finn Sur,INC,50,PhD
+2200,Farhan Puri,Regional Party,55,12th Pass
+2201,Gayathri Naik,AAP,48,Graduate
+2202,Robert Goel,Regional Party,25,Graduate
+2203,Kai Mangal,Independent,34,Graduate
+2204,Upma Mannan,Regional Party,56,PhD
+2205,Urvashi Hora,INC,37,Postgraduate
+2206,Sara Kala,Regional Party,66,PhD
+2207,Hredhaan Ahuja,Regional Party,28,Postgraduate
+2208,Omisha Basak,Independent,57,PhD
+2209,Rohan Hans,Independent,68,PhD
+2210,Ronith Modi,AAP,44,PhD
+2211,Yashica Zachariah,INC,67,Postgraduate
+2212,Pavani Lalla,INC,73,Postgraduate
+2213,Yashasvi Aggarwal,Regional Party,49,PhD
+2214,Jagvi De,BJP,32,12th Pass
+2215,Abeer Patil,Regional Party,28,Postgraduate
+2216,Isha Dara,INC,50,PhD
+2217,Yashasvi Sheth,INC,53,PhD
+2218,Avi Koshy,Regional Party,64,Postgraduate
+2219,Vritti Pillai,AAP,40,Postgraduate
+2220,Champak Trivedi,Regional Party,56,12th Pass
+2221,Bhavini Parmar,BJP,32,PhD
+2222,Deepa Venkataraman,AAP,58,Postgraduate
+2223,Caleb Babu,Independent,31,Postgraduate
+2224,Chanakya Shanker,BJP,55,Graduate
+2225,Max Sundaram,Independent,65,Postgraduate
+2226,Abhiram Shetty,BJP,74,PhD
+2227,Kiaan Comar,BJP,62,Graduate
+2228,Maya Lata,AAP,47,12th Pass
+2229,Abhiram Dyal,AAP,44,PhD
+2230,Jackson Lata,Regional Party,58,Postgraduate
+2231,Eesha Chad,Regional Party,40,12th Pass
+2232,Nitesh Dayal,Independent,40,12th Pass
+2233,Ekaraj Chand,INC,68,Postgraduate
+2234,Shivansh Badal,AAP,58,12th Pass
+2235,Waida Issac,Regional Party,27,Postgraduate
+2236,Gautami Srinivas,BJP,41,Postgraduate
+2237,Wakeeta Chakrabarti,Regional Party,37,12th Pass
+2238,Zashil Parsa,AAP,32,PhD
+2239,Nimrat Dhaliwal,Regional Party,68,12th Pass
+2240,Meghana Jani,Regional Party,60,PhD
+2241,Kritika Venkataraman,INC,38,12th Pass
+2242,Turvi Nagarajan,INC,28,12th Pass
+2243,Kevin Mistry,Independent,51,Graduate
+2244,Aachal Chakraborty,INC,46,Postgraduate
+2245,Rishi Garde,AAP,54,12th Pass
+2246,Nikita Chaudry,Regional Party,29,Postgraduate
+2247,Ishwar Sathe,Regional Party,62,12th Pass
+2248,Hemal Behl,Regional Party,43,PhD
+2249,Eshana Apte,Regional Party,61,PhD
+2250,Zayyan Dash,Regional Party,66,Postgraduate
+2251,Turvi Ramaswamy,Independent,63,12th Pass
+2252,Jairaj Deshmukh,AAP,52,PhD
+2253,Idika Jha,AAP,54,Postgraduate
+2254,Wyatt Bali,Regional Party,40,12th Pass
+2255,Fitan Mistry,INC,51,12th Pass
+2256,Eiravati Dora,Regional Party,52,PhD
+2257,Lucky Brahmbhatt,BJP,51,Postgraduate
+2258,Widisha Tandon,AAP,66,12th Pass
+2259,Caleb Bains,Regional Party,74,12th Pass
+2260,Yachana Madan,AAP,40,12th Pass
+2261,Anamika Thakur,Independent,35,PhD
+2262,Vritti Patla,Independent,74,Postgraduate
+2263,Arin Bera,Independent,62,Graduate
+2264,Chatresh Chakrabarti,Independent,40,Graduate
+2265,Indali Padmanabhan,AAP,63,PhD
+2266,Vidhi Batra,Regional Party,34,12th Pass
+2267,Vrishti Bora,INC,30,PhD
+2268,Veer Shanker,Regional Party,46,Postgraduate
+2269,Girindra Bains,Regional Party,56,Postgraduate
+2270,Kai Rajagopal,Independent,73,Graduate
+2271,Ekanta Kara,INC,66,12th Pass
+2272,Ekta Solanki,AAP,34,PhD
+2273,Ishani Sem,INC,41,PhD
+2274,Zaid Amble,Independent,64,PhD
+2275,Eesha Sawhney,Independent,29,PhD
+2276,Zansi Sharma,Regional Party,55,12th Pass
+2277,Oni Tank,Regional Party,44,12th Pass
+2278,Suhani Sha,Regional Party,45,Graduate
+2279,Anvi Soman,Regional Party,64,12th Pass
+2280,Gunbir Mohan,AAP,54,Postgraduate
+2281,Radha Suri,BJP,43,Postgraduate
+2282,Matthew Sehgal,BJP,70,Postgraduate
+2283,Unni Kurian,Regional Party,36,PhD
+2284,Harish Ganguly,AAP,53,Postgraduate
+2285,Raksha Mandal,Regional Party,42,PhD
+2286,Gaurav Bajwa,Independent,38,Postgraduate
+2287,Amara Gour,Regional Party,51,Graduate
+2288,Pooja Gala,INC,32,Graduate
+2289,Ojas Dubey,BJP,36,Postgraduate
+2290,Aarav Chaudhary,BJP,65,Graduate
+2291,Ati Dutt,INC,63,Graduate
+2292,Raagini Randhawa,Regional Party,72,Postgraduate
+2293,Ikshita Upadhyay,Regional Party,71,Postgraduate
+2294,Teerth Char,INC,30,Postgraduate
+2295,Krishna Mohan,Independent,50,Postgraduate
+2296,Geetika Balay,Regional Party,47,Postgraduate
+2297,Liam Naidu,Regional Party,55,Postgraduate
+2298,Diya Sur,Independent,64,PhD
+2299,Yuvraj Baral,BJP,49,Postgraduate
+2300,Zayyan Bassi,Regional Party,70,12th Pass
+2301,Jack Bala,AAP,46,Graduate
+2302,Saumya Kannan,BJP,47,PhD
+2303,Wakeeta Dasgupta,INC,37,Graduate
+2304,Kamya Patla,BJP,56,PhD
+2305,Aarush Narain,INC,43,Graduate
+2306,Kashvi Ratti,BJP,72,Postgraduate
+2307,Krish Murthy,AAP,40,12th Pass
+2308,Naveen Mall,BJP,49,Postgraduate
+2309,Viraj Shetty,BJP,52,Graduate
+2310,Wakeeta Mitter,INC,52,PhD
+2311,Raagini Mahal,INC,66,Graduate
+2312,Laban Upadhyay,INC,58,12th Pass
+2313,Amol Dasgupta,AAP,54,Graduate
+2314,Hema Ramanathan,INC,47,Postgraduate
+2315,Zayan Venkataraman,Independent,43,Postgraduate
+2316,Teerth Kari,Independent,53,Graduate
+2317,Tara Sankaran,INC,64,Graduate
+2318,Eiravati Bahri,AAP,38,PhD
+2319,Mekhala Krishnamurthy,AAP,48,12th Pass
+2320,Wazir Malhotra,Independent,30,Graduate
+2321,Geetika Deshmukh,AAP,42,Postgraduate
+2322,Dipta Mangal,Regional Party,54,12th Pass
+2323,Baljiwan Walla,AAP,66,PhD
+2324,Mason Ravel,Independent,64,12th Pass
+2325,Vedhika Bhatti,Independent,46,Graduate
+2326,Ishaan Gole,Independent,65,Graduate
+2327,Shravya Pradhan,AAP,57,PhD
+2328,Teerth Narayan,BJP,60,12th Pass
+2329,Bachittar Thakkar,INC,52,Postgraduate
+2330,Nirja D’Alia,AAP,50,12th Pass
+2331,William Srinivas,Independent,45,12th Pass
+2332,Oviya Gole,Regional Party,54,Graduate
+2333,Abhimanyu Mand,BJP,73,12th Pass
+2334,Avni Naidu,INC,62,Postgraduate
+2335,Yatin Palla,BJP,70,PhD
+2336,Bahadurjit Tiwari,INC,66,PhD
+2337,Vrinda Chaudhry,Independent,53,PhD
+2338,Anika Kumar,Regional Party,43,Graduate
+2339,Michael Rana,Independent,70,PhD
+2340,Nikita Sachar,Independent,29,12th Pass
+2341,Gaurika Sinha,BJP,69,Postgraduate
+2342,Xavier Seth,BJP,61,12th Pass
+2343,Advik Sundaram,Regional Party,32,PhD
+2344,Brijesh Oak,AAP,27,PhD
+2345,Gavin Karan,BJP,44,Postgraduate
+2346,Timothy Saini,BJP,73,12th Pass
+2347,Gabriel Banerjee,BJP,42,PhD
+2348,Zaid Pillay,INC,64,Graduate
+2349,Gaurangi Ganguly,AAP,42,Graduate
+2350,Sachi Ghose,Regional Party,56,Graduate
+2351,Charvi Karpe,BJP,43,12th Pass
+2352,Jai Bhandari,BJP,31,12th Pass
+2353,Rehaan Sane,Independent,59,Postgraduate
+2354,Avi Sengupta,Independent,44,12th Pass
+2355,Harrison Sen,INC,40,PhD
+2356,Arin Raj,Regional Party,32,12th Pass
+2357,Balvan Sen,Independent,48,12th Pass
+2358,Ekani Issac,AAP,50,Postgraduate
+2359,Tejas Dutta,AAP,42,Graduate
+2360,Nikita Contractor,Regional Party,59,PhD
+2361,Chaitaly Dhaliwal,AAP,63,12th Pass
+2362,Udarsh Sachdev,Independent,67,PhD
+2363,Faraj Dugar,AAP,27,PhD
+2364,Bhanumati Khalsa,INC,54,PhD
+2365,Harsh Rout,AAP,50,12th Pass
+2366,Zaid Ramesh,INC,44,12th Pass
+2367,Luke Gaba,Independent,48,12th Pass
+2368,Lucky Mitra,AAP,67,Graduate
+2369,Agastya Banik,Regional Party,30,PhD
+2370,Lajita Bail,Regional Party,48,12th Pass
+2371,Ayush Jain,Regional Party,49,Graduate
+2372,Chakradhar Menon,Regional Party,67,Graduate
+2373,Yutika Pall,INC,60,12th Pass
+2374,Xiti Singhal,BJP,30,Postgraduate
+2375,Timothy Jain,Regional Party,60,Graduate
+2376,Ethan Narayan,Independent,61,12th Pass
+2377,Dhruv Nadkarni,Independent,65,PhD
+2378,Bhavika Lad,Regional Party,55,12th Pass
+2379,Osha Devi,Regional Party,44,Postgraduate
+2380,Kamya Wason,Independent,34,PhD
+2381,Osha Amble,BJP,58,Postgraduate
+2382,Veer Tiwari,INC,31,Postgraduate
+2383,Widisha Grewal,Regional Party,42,PhD
+2384,Tarak Upadhyay,Regional Party,60,PhD
+2385,Timothy Baral,INC,59,PhD
+2386,Jairaj Kashyap,AAP,36,PhD
+2387,Sachi Nagy,AAP,54,PhD
+2388,Nidra Batra,INC,26,12th Pass
+2389,Isha Bhattacharyya,AAP,49,PhD
+2390,Advika Anne,Independent,31,12th Pass
+2391,Praneel Jaggi,Independent,63,Postgraduate
+2392,Eta Ahuja,BJP,53,Graduate
+2393,Maanav Malhotra,BJP,72,PhD
+2394,Ayaan Mody,INC,55,PhD
+2395,Idika Agarwal,BJP,66,Postgraduate
+2396,Ekapad Sarkar,Regional Party,25,Graduate
+2397,Girindra Butala,Regional Party,42,PhD
+2398,Hemani Parsa,AAP,57,Postgraduate
+2399,Amara Malhotra,BJP,46,Graduate
+2400,Andrew Loke,Regional Party,51,Postgraduate
+2401,Yashoda Shere,BJP,59,Graduate
+2402,Yashodhara Sridhar,Independent,34,PhD
+2403,Isha Natarajan,AAP,62,Postgraduate
+2404,Panini Brar,AAP,55,Graduate
+2405,Anya Bansal,INC,47,PhD
+2406,Zilmil Wali,AAP,48,Postgraduate
+2407,Mitesh Taneja,Independent,66,12th Pass
+2408,George Kumer,Independent,35,12th Pass
+2409,Vansha Khatri,INC,45,Graduate
+2410,Madhavi Khurana,Regional Party,69,12th Pass
+2411,Aadi Ramachandran,INC,59,Graduate
+2412,Aryan Deol,BJP,38,PhD
+2413,Warinder Gokhale,Regional Party,49,12th Pass
+2414,Ekansh Rai,Regional Party,56,Postgraduate
+2415,Bhavani Mitter,INC,55,PhD
+2416,Kabir Tandon,Regional Party,55,Postgraduate
+2417,Sai Bumb,INC,30,Graduate
+2418,Yagnesh Kanda,INC,64,Postgraduate
+2419,Hardik Kapur,AAP,45,Graduate
+2420,Omaja Natarajan,Independent,47,12th Pass
+2421,Oliver Bhatti,Independent,70,12th Pass
+2422,Eiravati Upadhyay,Regional Party,64,Postgraduate
+2423,Adweta Krishnamurthy,INC,33,Graduate
+2424,Zilmil Amble,Independent,63,12th Pass
+2425,Zarna Krishnamurthy,Regional Party,49,Postgraduate
+2426,Frederick Borah,BJP,66,Postgraduate
+2427,Chaitanya Sarkar,Independent,60,PhD
+2428,Chandani Pall,Regional Party,67,Postgraduate
+2429,Oni Shere,Independent,72,Postgraduate
+2430,Daksh Sem,Regional Party,25,12th Pass
+2431,Ati Kaul,Independent,36,Graduate
+2432,Ekaja Mukherjee,Regional Party,43,PhD
+2433,Pushti Sampath,BJP,49,Graduate
+2434,Ishanvi Zacharia,Independent,60,Postgraduate
+2435,Garima Manne,INC,49,Postgraduate
+2436,Geetika Sama,INC,62,Graduate
+2437,Daksh Sastry,BJP,57,Postgraduate
+2438,Saumya Sani,INC,54,12th Pass
+2439,Urvashi Basu,AAP,27,Graduate
+2440,Aishani Vig,AAP,38,Graduate
+2441,Siya Butala,INC,68,Graduate
+2442,Zaitra Hegde,Regional Party,29,Postgraduate
+2443,Ekbal Bhargava,Independent,27,Graduate
+2444,Nakul Keer,INC,63,Graduate
+2445,Yochana Maharaj,Regional Party,34,Postgraduate
+2446,Karan Sampath,AAP,59,Postgraduate
+2447,Gaurangi Kari,Independent,59,12th Pass
+2448,Anthony Chad,Regional Party,46,12th Pass
+2449,Barkha Kurian,BJP,37,Graduate
+2450,Devika Dugar,BJP,70,Graduate
+2451,Omaja Toor,BJP,67,Graduate
+2452,Faras Kohli,INC,41,Postgraduate
+2453,Ati Cherian,Independent,37,12th Pass
+2454,Wyatt Savant,Regional Party,43,PhD
+2455,Qarin Bal,BJP,57,Postgraduate
+2456,Nihal Tiwari,Regional Party,45,Postgraduate
+2457,Aarush Gokhale,Independent,56,Postgraduate
+2458,Samaksh Issac,INC,39,Graduate
+2459,Arin Ghosh,Regional Party,29,PhD
+2460,Libni Nadkarni,Independent,55,Postgraduate
+2461,Diya Upadhyay,Independent,31,PhD
+2462,Ridhi Karan,BJP,56,Postgraduate
+2463,Turvi Garg,INC,56,Graduate
+2464,Kavya Mohanty,Independent,60,PhD
+2465,Ishwar Pai,BJP,72,Postgraduate
+2466,Joshua Kata,Regional Party,30,Graduate
+2467,Anita Misra,INC,42,Graduate
+2468,Krishna Devi,Independent,39,PhD
+2469,Inaya Pathak,Regional Party,44,Postgraduate
+2470,Vamakshi Gokhale,AAP,48,12th Pass
+2471,Mahika Raman,Independent,67,Graduate
+2472,Janani Mammen,Regional Party,54,Graduate
+2473,Jeet Pai,BJP,61,Postgraduate
+2474,Adya Chawla,Regional Party,30,PhD
+2475,Champak Sastry,BJP,43,Postgraduate
+2476,Janaki Sant,Independent,54,12th Pass
+2477,Amruta Kalita,AAP,43,Postgraduate
+2478,Qasim Kalita,Regional Party,55,Graduate
+2479,Utkarsh Ratti,AAP,73,PhD
+2480,Yashvi Gole,INC,70,PhD
+2481,Yash Badal,Independent,35,12th Pass
+2482,William Baria,Independent,59,PhD
+2483,Tanmayi Pathak,Regional Party,73,Postgraduate
+2484,Krisha Peri,INC,27,12th Pass
+2485,Leena Rai,BJP,27,Graduate
+2486,Garima Loyal,INC,34,12th Pass
+2487,Wakeeta Devan,INC,34,Graduate
+2488,Balvan Samra,Regional Party,51,Postgraduate
+2489,Aarnav Nadig,Independent,41,Postgraduate
+2490,Waida Anand,Regional Party,52,Postgraduate
+2491,Omkaar Narayan,Regional Party,68,Postgraduate
+2492,Manan Sathe,BJP,70,PhD
+2493,Pratyush Johal,INC,37,PhD
+2494,Yashawini Anand,Independent,41,Graduate
+2495,Arjun Yadav,Independent,69,Postgraduate
+2496,Indira Kaur,AAP,51,Postgraduate
+2497,Chatresh Jain,BJP,42,Postgraduate
+2498,Jacob Dyal,AAP,62,PhD
+2499,Brinda Menon,AAP,41,Graduate
+2500,Ekbal Mukhopadhyay,Independent,66,Postgraduate
+2501,Jagdish Kaur,Regional Party,34,PhD
+2502,Indira Deshpande,Regional Party,37,12th Pass
+2503,Jagvi Bhat,Independent,63,Postgraduate
+2504,Lucky Chandran,Regional Party,48,PhD
+2505,Jeremiah Pall,Independent,60,12th Pass
+2506,Guneet Soman,Regional Party,59,12th Pass
+2507,Chatura Bhatt,Regional Party,54,12th Pass
+2508,Laban Rastogi,INC,36,PhD
+2509,Yashawini Bava,BJP,62,Graduate
+2510,Leela Wali,INC,50,Postgraduate
+2511,Hema Palla,AAP,55,Postgraduate
+2512,Jagvi Wagle,AAP,67,Graduate
+2513,Garima Krishnan,Independent,30,Postgraduate
+2514,Chandani Kulkarni,AAP,68,Postgraduate
+2515,Eiravati Ratta,AAP,73,Graduate
+2516,Abhiram Dar,Regional Party,59,Graduate
+2517,Mitesh Golla,BJP,69,12th Pass
+2518,Arunima Thakkar,Regional Party,32,12th Pass
+2519,Balendra Desai,AAP,30,Graduate
+2520,Damyanti Parikh,AAP,61,PhD
+2521,Yashodhara Rastogi,Regional Party,58,Postgraduate
+2522,Xavier Swaminathan,AAP,67,12th Pass
+2523,Lakshit Barad,AAP,70,PhD
+2524,Anmol Narasimhan,Regional Party,53,Graduate
+2525,Charles Sarraf,Regional Party,65,PhD
+2526,Kashish Choudhry,AAP,42,Postgraduate
+2527,Aahana Bora,AAP,57,Postgraduate
+2528,Sai Deep,AAP,28,12th Pass
+2529,Dalbir Joshi,Regional Party,70,PhD
+2530,Eesha Raju,INC,28,Postgraduate
+2531,Bakhshi Deshpande,INC,40,Postgraduate
+2532,Ishanvi Bahl,BJP,53,12th Pass
+2533,Hemang Hayre,INC,51,Postgraduate
+2534,Ikshita Nazareth,Regional Party,61,PhD
+2535,Balvan Mahajan,Independent,26,Postgraduate
+2536,Avi Cheema,Independent,42,Graduate
+2537,Aahana Biswas,Regional Party,44,Graduate
+2538,Isaac Mody,AAP,68,Graduate
+2539,Laksh Raman,Regional Party,58,PhD
+2540,Vincent Mahal,Regional Party,26,12th Pass
+2541,Oeshi Oak,AAP,56,PhD
+2542,Manya Master,BJP,53,Graduate
+2543,Chandani Chakraborty,BJP,46,Graduate
+2544,Vedant Sahni,Regional Party,40,12th Pass
+2545,Henry Bajaj,Independent,67,12th Pass
+2546,Luke Chaudhry,Independent,53,Graduate
+2547,Jasmit Rajagopal,INC,69,PhD
+2548,Ayush Bhasin,Regional Party,37,PhD
+2549,Liam Comar,Regional Party,29,PhD
+2550,Libni Baria,Independent,34,Graduate
+2551,Manya Mody,Regional Party,32,Graduate
+2552,Yatin Kakar,BJP,54,Graduate
+2553,Adya Bhalla,INC,70,Postgraduate
+2554,Guneet Bath,Independent,44,Postgraduate
+2555,Wishi Chaudhuri,Independent,64,Postgraduate
+2556,Rushil Sampath,Independent,25,Graduate
+2557,Shivansh Ravel,BJP,29,12th Pass
+2558,Kritika Saini,Regional Party,58,12th Pass
+2559,Viraj Raju,Regional Party,46,Postgraduate
+2560,Pallavi Swaminathan,BJP,58,PhD
+2561,Divya Bedi,Regional Party,27,Postgraduate
+2562,Yochana Kar,BJP,56,Graduate
+2563,Baljiwan Atwal,BJP,31,PhD
+2564,Jeremiah Om,BJP,70,PhD
+2565,Madhavi Lad,Independent,51,Graduate
+2566,Jeremiah Peri,Regional Party,39,Graduate
+2567,Azaan Chakraborty,Regional Party,49,Graduate
+2568,Bakhshi Chauhan,AAP,37,Graduate
+2569,Manbir Anne,INC,73,12th Pass
+2570,Manan Khatri,BJP,67,Postgraduate
+2571,Advay Sampath,BJP,27,12th Pass
+2572,Eta Naidu,AAP,71,Postgraduate
+2573,Alexander Gade,Independent,33,Graduate
+2574,Zehaan Palla,Regional Party,57,12th Pass
+2575,Nihal Goyal,Independent,38,12th Pass
+2576,Arin Kunda,INC,60,PhD
+2577,Jeremiah Shere,Independent,39,Postgraduate
+2578,Vedhika Jhaveri,BJP,60,Graduate
+2579,Dayamai Shetty,Regional Party,32,12th Pass
+2580,Advaith Verma,AAP,63,Graduate
+2581,Wishi Ratti,Independent,68,PhD
+2582,Keya Pall,BJP,41,12th Pass
+2583,Amol Parmar,AAP,64,Postgraduate
+2584,Darpan Comar,Regional Party,45,PhD
+2585,Naveen Narain,AAP,37,PhD
+2586,Jyoti Halder,Independent,57,Postgraduate
+2587,Qushi Rajagopal,Independent,52,PhD
+2588,Karan Rajagopal,BJP,30,12th Pass
+2589,Faras Magar,INC,61,12th Pass
+2590,Chaitanya Sunder,Independent,63,Postgraduate
+2591,Arjun Madan,Independent,33,Graduate
+2592,Gavin Anand,Independent,42,Postgraduate
+2593,Ekavir Raju,AAP,71,Postgraduate
+2594,Om Master,Regional Party,26,12th Pass
+2595,Amol Handa,BJP,60,PhD
+2596,Naksh Varughese,AAP,41,PhD
+2597,Umang Agrawal,AAP,54,Postgraduate
+2598,Faras Butala,AAP,62,PhD
+2599,Dominic Din,Independent,49,PhD
+2600,Ekaraj Kanda,Regional Party,55,Postgraduate
+2601,Chaitanya Bahri,AAP,51,Postgraduate
+2602,Sneha Jha,Independent,31,PhD
+2603,Raagini Parsa,Independent,62,PhD
+2604,Yauvani Pandey,BJP,67,Graduate
+2605,Abeer Issac,AAP,74,PhD
+2606,Arin Golla,INC,64,Graduate
+2607,Ekbal Korpal,AAP,48,PhD
+2608,Samarth Dutta,Independent,25,12th Pass
+2609,Harsh Bhatti,INC,67,Postgraduate
+2610,Niharika Prabhakar,Independent,69,Postgraduate
+2611,Gavin Swaminathan,INC,61,Graduate
+2612,Amol Murty,BJP,31,Postgraduate
+2613,Veda Kohli,AAP,42,Postgraduate
+2614,Akshay Kala,INC,68,12th Pass
+2615,Triya Oza,AAP,51,12th Pass
+2616,Nitesh Ganguly,Independent,33,12th Pass
+2617,Nakul Tandon,BJP,60,12th Pass
+2618,Warinder Narasimhan,Independent,51,PhD
+2619,Upkaar Munshi,Regional Party,44,12th Pass
+2620,Jagvi Samra,INC,67,PhD
+2621,Balvan Mishra,BJP,34,Graduate
+2622,Ranbir Dube,BJP,59,12th Pass
+2623,Chakrika Ram,Regional Party,31,Graduate
+2624,Vrishti Viswanathan,BJP,27,PhD
+2625,Praneel Sheth,Independent,58,12th Pass
+2626,Niharika Divan,AAP,53,PhD
+2627,Shaurya Hayre,Independent,26,12th Pass
+2628,Ekta Walla,BJP,67,12th Pass
+2629,Reva Mishra,BJP,37,12th Pass
+2630,Jalsa Dalal,INC,38,12th Pass
+2631,Raghav Natarajan,INC,48,PhD
+2632,Darika Brahmbhatt,Regional Party,32,Graduate
+2633,Pranav Tak,Independent,29,Postgraduate
+2634,Hitesh Gupta,BJP,52,Postgraduate
+2635,Patrick Dalal,AAP,71,PhD
+2636,Krisha Khalsa,INC,31,12th Pass
+2637,Kabir Varughese,INC,29,12th Pass
+2638,Chameli Deol,Regional Party,43,Graduate
+2639,Hardik Biswas,Independent,38,Graduate
+2640,Chasmum Aggarwal,Regional Party,73,Postgraduate
+2641,Kevin Buch,AAP,28,Graduate
+2642,Netra Baria,BJP,69,Postgraduate
+2643,Gopal Sem,BJP,39,Postgraduate
+2644,Vansha Gopal,INC,59,Postgraduate
+2645,Aishani Bose,INC,73,12th Pass
+2646,Ojasvi Chander,INC,27,Postgraduate
+2647,Vasana Saha,INC,36,PhD
+2648,Dhriti Desai,INC,40,Postgraduate
+2649,Chameli Kade,Independent,59,Graduate
+2650,Balhaar Barad,Regional Party,46,12th Pass
+2651,Ria Bal,INC,67,Graduate
+2652,Falguni Chander,AAP,74,12th Pass
+2653,Bimala Mistry,INC,61,Graduate
+2654,Saumya Mani,Independent,50,PhD
+2655,Shaurya Kanda,Independent,33,12th Pass
+2656,Rajata Zachariah,Regional Party,42,PhD
+2657,Oliver Mitra,BJP,73,Postgraduate
+2658,Vedant Sura,AAP,73,12th Pass
+2659,Raghav Kibe,INC,47,PhD
+2660,Gautam Bhatia,BJP,67,12th Pass
+2661,Vaishnavi Pall,AAP,69,Graduate
+2662,Urvashi Zacharia,Regional Party,39,12th Pass
+2663,Logan Aggarwal,Regional Party,58,Graduate
+2664,Jasmit Majumdar,AAP,27,PhD
+2665,Jagvi Lad,AAP,28,PhD
+2666,Bhavika Prashad,AAP,47,12th Pass
+2667,Qarin Nadig,Regional Party,63,PhD
+2668,Bachittar Tank,INC,52,Postgraduate
+2669,Samesh Shroff,BJP,68,PhD
+2670,Sai Bhardwaj,INC,46,PhD
+2671,Ayushman Sachdev,Independent,57,Postgraduate
+2672,Priya Bedi,Regional Party,61,Graduate
+2673,Onveer Ramaswamy,Regional Party,45,Graduate
+2674,Kevin Chahal,INC,43,PhD
+2675,Rushil Ramanathan,INC,45,Graduate
+2676,Parth Shankar,Independent,59,PhD
+2677,Advik Tara,BJP,48,Graduate
+2678,Nandini Parmer,Independent,66,Postgraduate
+2679,Victor Puri,Regional Party,53,Postgraduate
+2680,Amruta Sathe,Regional Party,58,Graduate
+2681,Bakhshi Shetty,Regional Party,49,Postgraduate
+2682,Edhitha Sharaf,INC,59,PhD
+2683,Gaurika Master,Regional Party,61,Graduate
+2684,Dayamai Sood,AAP,72,Postgraduate
+2685,Charan Dora,INC,70,PhD
+2686,Pranav Chaudhary,AAP,49,12th Pass
+2687,Lila Lal,Regional Party,46,Graduate
+2688,Arunima Shere,Independent,47,Graduate
+2689,Gunbir Butala,INC,49,Postgraduate
+2690,Pratyush Buch,INC,52,12th Pass
+2691,Onkar Raja,INC,69,PhD
+2692,Kritika Mani,BJP,61,Postgraduate
+2693,Eiravati Sheth,Independent,50,PhD
+2694,Finn Dewan,BJP,67,12th Pass
+2695,Yashvi Shukla,AAP,43,12th Pass
+2696,Isaac Varughese,Regional Party,63,Postgraduate
+2697,Netra Kalita,AAP,41,12th Pass
+2698,Ikshita Jha,Regional Party,46,Graduate
+2699,Yash Rajagopal,Regional Party,57,12th Pass
+2700,Upasna Mistry,Regional Party,67,Graduate
+2701,Udarsh Kapoor,AAP,52,12th Pass
+2702,Banjeet Dubey,AAP,72,PhD
+2703,Harish Kari,Regional Party,43,PhD
+2704,Om Naik,INC,50,Postgraduate
+2705,Faris Varty,INC,54,Postgraduate
+2706,Sathvik Raja,BJP,34,12th Pass
+2707,Fariq Virk,Independent,26,PhD
+2708,Darsh Nori,Regional Party,29,12th Pass
+2709,Ethan Parmar,INC,37,Postgraduate
+2710,Sneha Andra,Independent,62,Graduate
+2711,Turvi Suresh,Regional Party,74,Postgraduate
+2712,Ekiya Sankaran,Independent,55,PhD
+2713,Arunima Panchal,Regional Party,61,12th Pass
+2714,Vansha Gade,AAP,62,12th Pass
+2715,Neelima Seth,AAP,47,Postgraduate
+2716,Jagrati Mani,Independent,66,12th Pass
+2717,Watika Batra,AAP,59,Graduate
+2718,Indrajit Kakar,Regional Party,73,Postgraduate
+2719,Isaac Goswami,BJP,36,Graduate
+2720,Baljiwan Hayer,Independent,38,Graduate
+2721,Chaaya Nayak,INC,53,PhD
+2722,Sara Bhargava,AAP,48,Postgraduate
+2723,Radha Sharaf,Independent,48,Graduate
+2724,Yachana Anand,Regional Party,34,PhD
+2725,Bhavna Gulati,Independent,46,12th Pass
+2726,Chakrika Bobal,BJP,58,PhD
+2727,Wakeeta Bhasin,Independent,36,12th Pass
+2728,Neelima Apte,Regional Party,25,PhD
+2729,Anirudh Natt,INC,64,Postgraduate
+2730,Om Ghose,Independent,43,Postgraduate
+2731,Odika Subramanian,Independent,44,12th Pass
+2732,Jeet Mandal,BJP,44,12th Pass
+2733,Yachana Mani,Regional Party,56,12th Pass
+2734,Shivansh Modi,INC,44,PhD
+2735,Inaya Jain,BJP,41,Graduate
+2736,Vanya Shetty,Regional Party,66,PhD
+2737,Elijah Pall,BJP,36,12th Pass
+2738,Meera Chahal,INC,32,Graduate
+2739,Abeer Arora,AAP,64,12th Pass
+2740,Meera Iyer,BJP,70,Graduate
+2741,Falan Bhat,Regional Party,53,12th Pass
+2742,Abhiram Mall,Independent,67,12th Pass
+2743,Mitesh Murthy,BJP,42,Postgraduate
+2744,Jalsa Walia,AAP,71,PhD
+2745,Ikbal Sha,Regional Party,53,12th Pass
+2746,Samarth Purohit,AAP,69,PhD
+2747,Noah Gandhi,Regional Party,62,Graduate
+2748,Manthan Bose,INC,69,Graduate
+2749,Gunbir Dhingra,INC,67,Graduate
+2750,Faraj Shroff,Independent,52,PhD
+2751,Krishna Sachdeva,AAP,27,Graduate
+2752,Robert Cheema,INC,58,Postgraduate
+2753,Agastya Batta,BJP,62,PhD
+2754,Vamakshi Setty,Regional Party,69,Postgraduate
+2755,Tara Sarma,BJP,51,PhD
+2756,Shravya Borah,AAP,70,Graduate
+2757,Simon Dugal,BJP,63,Graduate
+2758,Manya Pal,BJP,45,Postgraduate
+2759,Amaira Tella,INC,67,12th Pass
+2760,Tanish Nadkarni,AAP,67,PhD
+2761,Adweta De,BJP,42,Graduate
+2762,Anmol Sankar,BJP,34,Graduate
+2763,Isaac Dara,Regional Party,72,PhD
+2764,Isha Chacko,BJP,50,12th Pass
+2765,Jonathan Varghese,Regional Party,59,Postgraduate
+2766,Omaja Kalita,Regional Party,45,12th Pass
+2767,Hredhaan Morar,INC,35,Postgraduate
+2768,Praneel Mitter,Regional Party,46,Graduate
+2769,Chandani Mohanty,BJP,62,PhD
+2770,Samarth Baral,Independent,73,Postgraduate
+2771,Sneha Agarwal,Independent,59,Graduate
+2772,Chandran Mallick,AAP,27,PhD
+2773,Xiti Chhabra,Independent,53,12th Pass
+2774,Samar Chowdhury,BJP,44,Postgraduate
+2775,Udarsh Kaur,AAP,57,Postgraduate
+2776,Arya Sampath,Regional Party,42,Postgraduate
+2777,Henry Thakkar,Regional Party,50,Postgraduate
+2778,Bahadurjit Grover,Independent,27,Postgraduate
+2779,Nathan Sarkar,INC,37,Postgraduate
+2780,Anita Krish,INC,57,Graduate
+2781,Unni Golla,AAP,31,Postgraduate
+2782,Xalak Mitter,BJP,55,Postgraduate
+2783,Krisha Lad,Regional Party,71,12th Pass
+2784,Gaurang Jha,BJP,31,Postgraduate
+2785,Urvi Rau,BJP,67,PhD
+2786,Finn Kari,Independent,28,Postgraduate
+2787,Triveni Kant,BJP,63,Postgraduate
+2788,Jeevika Nigam,BJP,65,Postgraduate
+2789,Leena Mukherjee,BJP,43,PhD
+2790,Andrew Chokshi,INC,68,12th Pass
+2791,Mohini Arora,Regional Party,74,PhD
+2792,Alka Batta,BJP,31,12th Pass
+2793,Jyoti Chakrabarti,Independent,46,12th Pass
+2794,Edhitha Dara,INC,39,PhD
+2795,Zayan Sankaran,Regional Party,41,12th Pass
+2796,Yashawini Iyer,Independent,56,PhD
+2797,Balhaar Hayre,Independent,62,Postgraduate
+2798,Arjun Grover,BJP,26,12th Pass
+2799,Gaurangi Edwin,INC,61,PhD
+2800,Chatura Tak,INC,35,12th Pass
+2801,Unni Badal,BJP,41,Graduate
+2802,Urvashi Ghose,Independent,42,12th Pass
+2803,Lekha Deep,AAP,37,PhD
+2804,Sanaya Shanker,Regional Party,44,12th Pass
+2805,Vansha Kanda,Regional Party,57,PhD
+2806,Jackson Walla,Regional Party,63,PhD
+2807,Xalak Mangat,Independent,56,Graduate
+2808,Jairaj Chawla,INC,45,Postgraduate
+2809,Nihal Parsa,AAP,57,Graduate
+2810,Advaith Vasa,INC,27,Graduate
+2811,Yadavi Savant,BJP,40,Graduate
+2812,Chanakya Tella,AAP,70,12th Pass
+2813,Jeet Dutt,Regional Party,55,Postgraduate
+2814,Orinder Din,BJP,38,Postgraduate
+2815,Nilima Chacko,INC,35,Postgraduate
+2816,Oni Dada,Independent,47,Postgraduate
+2817,Ekta Tara,AAP,26,Graduate
+2818,Jagvi Narang,INC,54,Graduate
+2819,Ekanta Minhas,Independent,28,Postgraduate
+2820,Rachit Sarin,INC,66,12th Pass
+2821,Bakhshi Sama,INC,34,Graduate
+2822,Osha Kale,Independent,43,Graduate
+2823,Vrishti Bhakta,Independent,51,Graduate
+2824,Daksha Gokhale,INC,27,Postgraduate
+2825,Nitara Kakar,AAP,27,12th Pass
+2826,Michael Chandra,Independent,37,12th Pass
+2827,Ria Chakraborty,BJP,34,PhD
+2828,Maya Varty,INC,35,12th Pass
+2829,Ikshita Sani,INC,64,PhD
+2830,Anusha Chandran,Regional Party,59,12th Pass
+2831,Indrajit Kade,INC,48,PhD
+2832,Ishanvi Sem,INC,74,Graduate
+2833,Garima Bajwa,Regional Party,41,Graduate
+2834,Ranbir Rama,Regional Party,31,12th Pass
+2835,Jagat Deo,AAP,50,Postgraduate
+2836,Mohammed Chopra,Independent,39,Postgraduate
+2837,Urmi Parsa,INC,27,Postgraduate
+2838,Charita Maharaj,Regional Party,72,12th Pass
+2839,Pratyush Bose,AAP,68,Graduate
+2840,Inaya Date,BJP,39,PhD
+2841,Aayush Banerjee,INC,53,Graduate
+2842,Tristan Karan,Independent,26,12th Pass
+2843,Rajata Maharaj,Regional Party,25,12th Pass
+2844,Dakshesh Talwar,Regional Party,70,Postgraduate
+2845,Tara Nagy,Regional Party,35,Graduate
+2846,Ekaja Narasimhan,Regional Party,64,12th Pass
+2847,Yachana Mahajan,BJP,31,PhD
+2848,Isaac Pradhan,Independent,51,Graduate
+2849,Wakeeta Nair,INC,57,Postgraduate
+2850,Rachita Patil,BJP,45,12th Pass
+2851,Manya Rout,INC,36,Graduate
+2852,Reva Chanda,Independent,32,Graduate
+2853,Rachit Chandra,AAP,72,PhD
+2854,Oscar Jani,Regional Party,36,Postgraduate
+2855,Krishna Agrawal,BJP,64,PhD
+2856,Keya Rana,INC,27,PhD
+2857,Jhalak Ratta,Independent,59,Graduate
+2858,Eiravati Kurian,AAP,51,12th Pass
+2859,Falak Handa,Regional Party,25,PhD
+2860,Shivansh Om,AAP,30,Graduate
+2861,Luke Chadha,AAP,28,12th Pass
+2862,Anvi Choudhury,Regional Party,35,Graduate
+2863,Baljiwan Sachdeva,AAP,73,Postgraduate
+2864,Pushti Ramanathan,INC,30,Graduate
+2865,Utkarsh Char,Independent,62,Postgraduate
+2866,Ijaya Madan,Independent,45,PhD
+2867,Anvi Yohannan,AAP,26,12th Pass
+2868,Nilima Nanda,BJP,49,PhD
+2869,Omya Kunda,BJP,42,Graduate
+2870,Ishita Rajagopal,Regional Party,43,PhD
+2871,Vedika Naidu,BJP,28,Graduate
+2872,Hamsini Modi,Independent,28,PhD
+2873,Dakshesh Madan,Independent,43,Postgraduate
+2874,Hiral Mahajan,Regional Party,34,PhD
+2875,Lucky Mann,AAP,54,12th Pass
+2876,Anusha Ratti,Regional Party,42,Graduate
+2877,Jagdish Nagy,Independent,36,12th Pass
+2878,Triya Gour,Independent,41,Graduate
+2879,Ekapad Iyengar,Independent,65,Graduate
+2880,Hemangini Wadhwa,AAP,36,12th Pass
+2881,Mitesh Kade,BJP,26,Postgraduate
+2882,Rushil Ramakrishnan,INC,62,PhD
+2883,Bhanumati Dhaliwal,BJP,44,12th Pass
+2884,Yashoda Kale,BJP,64,12th Pass
+2885,Meera Kohli,Independent,64,Postgraduate
+2886,Urvi Acharya,Regional Party,57,Postgraduate
+2887,Karan Luthra,BJP,64,12th Pass
+2888,Januja Subramanian,INC,49,Graduate
+2889,Diya Rastogi,AAP,58,Postgraduate
+2890,Chaman Sankaran,AAP,57,Postgraduate
+2891,Hredhaan Oza,Regional Party,67,Postgraduate
+2892,Viraj Kohli,Independent,35,12th Pass
+2893,Zansi Mangal,AAP,49,Graduate
+2894,Neelima Choudhury,BJP,30,Postgraduate
+2895,Samarth Sangha,Independent,74,PhD
+2896,Akshay Nath,Regional Party,62,Postgraduate
+2897,Qarin Kade,BJP,27,12th Pass
+2898,Harita Nagi,INC,72,PhD
+2899,Jason Deep,Independent,37,Postgraduate
+2900,Netra Salvi,Independent,29,Postgraduate
+2901,Warhi Natt,Regional Party,63,Postgraduate
+2902,Anamika Raman,Independent,55,Postgraduate
+2903,Raksha Chauhan,INC,69,12th Pass
+2904,Aditya Subramaniam,Regional Party,67,Graduate
+2905,Janani Palla,INC,43,12th Pass
+2906,Ojasvi Kaul,AAP,66,Graduate
+2907,Raghav Mammen,Regional Party,61,Graduate
+2908,Kai Madan,Independent,73,Graduate
+2909,Wishi Prashad,INC,39,12th Pass
+2910,Brijesh Varghese,Independent,34,Postgraduate
+2911,Gaurangi Deol,BJP,45,Graduate
+2912,Turvi Joshi,INC,26,PhD
+2913,Manan Bhatt,INC,49,Graduate
+2914,Lila Mand,AAP,32,PhD
+2915,Alka Wali,BJP,54,12th Pass
+2916,Azad Bansal,BJP,74,PhD
+2917,Mitesh Sankar,AAP,60,Graduate
+2918,Samarth Sekhon,Regional Party,41,Graduate
+2919,Mahika Batra,AAP,64,Graduate
+2920,Ubika Verma,Independent,73,PhD
+2921,Yachana Chaudhary,AAP,69,12th Pass
+2922,Kavya Sanghvi,Regional Party,37,Postgraduate
+2923,Arya Hayer,BJP,40,12th Pass
+2924,Karan Chandran,AAP,35,PhD
+2925,Victor Parsa,BJP,43,12th Pass
+2926,Pratyush Dar,AAP,42,12th Pass
+2927,Aarini Palla,Regional Party,27,PhD
+2928,Naveen Dhawan,BJP,61,12th Pass
+2929,Raghav Chakraborty,Independent,37,Graduate
+2930,Bhavna Kamdar,AAP,60,12th Pass
+2931,Jalsa Bansal,BJP,56,12th Pass
+2932,Quincy Vaidya,Independent,55,PhD
+2933,Kevin Kapur,AAP,52,Graduate
+2934,Praneel Mani,INC,47,PhD
+2935,Mitali Handa,AAP,58,12th Pass
+2936,Ekaraj Dhillon,Regional Party,55,12th Pass
+2937,Pahal Jha,Independent,38,12th Pass
+2938,Nikita Grover,BJP,56,PhD
+2939,Tanvi Dutt,BJP,30,PhD
+2940,Dhruv Luthra,AAP,37,PhD
+2941,Upadhriti Pathak,BJP,41,Postgraduate
+2942,Jeet Mannan,INC,48,PhD
+2943,Advaith Kant,INC,51,Postgraduate
+2944,Radhika Nadkarni,Regional Party,70,PhD
+2945,Niharika Pandya,BJP,49,PhD
+2946,Arin Parmar,Independent,52,Graduate
+2947,Gaurangi Talwar,INC,28,12th Pass
+2948,Anya Sen,BJP,64,Postgraduate
+2949,Ayushman Shetty,Regional Party,52,PhD
+2950,Gautam Raju,BJP,48,PhD
+2951,Barkha Gara,BJP,25,12th Pass
+2952,Chasmum Joshi,AAP,43,12th Pass
+2953,Girindra Khanna,INC,38,12th Pass
+2954,Naveen Warrior,AAP,45,PhD
+2955,Urvashi Koshy,INC,66,12th Pass
+2956,Xavier Shanker,INC,45,12th Pass
+2957,Leena Bhasin,INC,57,12th Pass
+2958,Wishi Choudhry,Regional Party,51,Postgraduate
+2959,Kashvi Sen,AAP,25,PhD
+2960,Ekanta Muni,Independent,41,12th Pass
+2961,Pahal Shanker,Independent,38,12th Pass
+2962,Vrishti Chaudhari,INC,28,PhD
+2963,Matthew Nayar,INC,64,PhD
+2964,Jasmit Palla,AAP,36,12th Pass
+2965,Faqid Kata,BJP,29,Postgraduate
+2966,Nidhi Vora,Regional Party,48,Graduate
+2967,Jagrati Sami,Regional Party,58,12th Pass
+2968,Janani Master,BJP,35,Graduate
+2969,Vedika Sawhney,AAP,72,12th Pass
+2970,Nitara Bora,Independent,62,Graduate
+2971,Chaman Dani,AAP,27,Graduate
+2972,Vincent Ramanathan,Independent,51,Postgraduate
+2973,Owen Tandon,BJP,38,Graduate
+2974,Manthan Chawla,BJP,60,PhD
+2975,Chaaya Dave,Independent,38,Postgraduate
+2976,Omisha Anand,AAP,56,12th Pass
+2977,Tanay Chawla,INC,49,Graduate
+2978,Logan Jani,INC,30,PhD
+2979,Saksham Bera,INC,65,Graduate
+2980,Faras Nagarajan,BJP,50,PhD
+2981,Wriddhish Narula,BJP,32,Postgraduate
+2982,Ishaan Nagarajan,AAP,74,Postgraduate
+2983,Ekavir Madan,AAP,52,12th Pass
+2984,Krish Gupta,BJP,50,PhD
+2985,Hemal Rajagopalan,INC,34,PhD
+2986,Charvi Chaudry,BJP,30,Graduate
+2987,Karan Balay,Independent,57,PhD
+2988,Anya Batra,Regional Party,27,Postgraduate
+2989,Kamya Chandran,AAP,69,PhD
+2990,Dhriti Manne,INC,71,PhD
+2991,Theodore Vig,Regional Party,37,PhD
+2992,Sai Wali,INC,66,Postgraduate
+2993,Wriddhish Sridhar,BJP,73,Graduate
+2994,Balhaar Varma,Regional Party,72,Graduate
+2995,Wazir Tank,Independent,61,Postgraduate
+2996,Zayyan Palla,Regional Party,50,12th Pass
+2997,Bhavika Sarraf,AAP,42,Postgraduate
+2998,Luke Balasubramanian,Regional Party,26,Graduate
+2999,Aarush Srinivas,Independent,30,Postgraduate
+3000,Dhriti Chandra,INC,47,12th Pass
